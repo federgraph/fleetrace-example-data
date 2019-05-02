@@ -1,0 +1,84 @@
+﻿#Params
+
+DP.StartlistCount = 8
+DP.ITCount = 0
+DP.RaceCount = 2
+
+#Event Properties
+
+EP.Name = FleetTest
+EP.ScoringSystem = Low Point System
+EP.Throwouts = 0
+EP.DivisionName = 420
+EP.InputMode = Strict
+EP.RaceLayout = Finish
+EP.NameSchema =
+EP.FieldMap = SN
+EP.FieldCaptions =
+EP.FieldCount = 6
+EP.NameFieldCount = 2
+EP.NameFieldOrder = 041256
+EP.ColorMode = Fleet
+EP.UseFleets = True
+EP.TargetFleetSize = 8
+EP.FirstFinalRace = 20
+EP.IsTimed = False
+EP.UseCompactFormat = True
+
+NameList.Begin
+NameList.End
+
+StartList.Begin
+Pos;SNR;Bib
+1;1001;1
+2;1002;2
+3;1003;3
+4;1004;4
+5;1005;5
+6;1006;6
+7;1007;7
+8;1008;8
+StartList.End
+
+FleetList.Begin
+SNR;Bib;R1;R2
+1001;1;1;2
+1002;2;1;2
+1003;3;1;2
+1004;4;1;2
+1005;5;2;1
+1006;6;2;1
+1007;7;2;1
+1008;8;2;1
+FleetList.End
+
+FinishList.Begin
+SNR;Bib;R1;R2
+1001;1;1;1
+1002;2;3;2
+1003;3;2;4
+1004;4;4;3
+1005;5;4;4
+1006;6;3;3
+1007;7;2;2
+1008;8;1;1
+FinishList.End
+
+CompareList.Begin
+001=00200
+008=00200
+007=00400
+002=00500
+003=00600
+006=00600
+004=00700
+005=00800
+CompareList.End
+
+#W1
+
+
+#W2
+
+
+EP.IM = Strict
