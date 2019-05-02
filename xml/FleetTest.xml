@@ -1,0 +1,56 @@
+﻿<?xml version="1.0"?>
+<FR>
+  <Properties StartlistCount="8" ITCount="0" RaceCount="2" DivisionName="420" InputMode="Strict">
+    <EP K="Name" V="FleetTest"/>
+    <EP K="ScoringSystem" V="Low Point System"/>
+    <EP K="Throwouts" V="0"/>
+    <EP K="DivisionName" V="420"/>
+    <EP K="InputMode" V="Strict"/>
+    <EP K="RaceLayout" V="Finish"/>
+    <EP K="NameSchema" V=""/>
+    <EP K="FieldMap" V="SN"/>
+    <EP K="FieldCaptions" V=""/>
+    <EP K="FieldCount" V="6"/>
+    <EP K="NameFieldCount" V="2"/>
+    <EP K="NameFieldOrder" V="041256"/>
+    <EP K="ColorMode" V="Fleet"/>
+    <EP K="UseFleets" V="True"/>
+    <EP K="TargetFleetSize" V="8"/>
+    <EP K="FirstFinalRace" V="20"/>
+    <EP K="UseCompactFormat" V="True"/>
+  </Properties>
+  <Entries/>
+  <StartList>
+    <Pos oID="1" Bib="1" SNR="1000"/>
+    <Pos oID="2" Bib="2" SNR="1001"/>
+    <Pos oID="3" Bib="3" SNR="1002"/>
+    <Pos oID="4" Bib="4" SNR="1003"/>
+    <Pos oID="5" Bib="5" SNR="1004"/>
+    <Pos oID="6" Bib="6" SNR="1005"/>
+    <Pos oID="7" Bib="7" SNR="1006"/>
+    <Pos oID="8" Bib="8" SNR="1007"/>
+  </StartList>
+  <FleetList>
+    <FL>SNR;Bib;R1;R2</FL>
+    <FL>1000;1;1;2</FL>
+    <FL>1001;2;1;2</FL>
+    <FL>1002;3;1;2</FL>
+    <FL>1003;4;1;2</FL>
+    <FL>1004;5;2;1</FL>
+    <FL>1005;6;2;1</FL>
+    <FL>1006;7;2;1</FL>
+    <FL>1007;8;2;1</FL>
+  </FleetList>
+  <FinishList>
+    <FL>SNR;Bib;R1;R2</FL>
+    <FL>1000;1;1;1</FL>
+    <FL>1001;2;3;2</FL>
+    <FL>1002;3;2;4</FL>
+    <FL>1003;4;4;3</FL>
+    <FL>1004;5;4;4</FL>
+    <FL>1005;6;3;3</FL>
+    <FL>1006;7;2;2</FL>
+    <FL>1007;8;1;1</FL>
+  </FinishList>
+  <MsgList/>
+</FR>
