@@ -3,7 +3,7 @@ author: federgraph
 description: >- # this means to ignore newlines until "baseurl:"
   sailing regatta event data files and posts
 baseurl: ""  # the subpath of your site, e.g. /blog
-# url: https://federgraph.github.io/fleetrace-example-data
+url: https://federgraph.github.io/fleetrace-example-data
 github_username: federgraph
 # repository: federgraph/fleetrace-example-data
 permalink: /:title:output_ext

@@ -3,4 +3,6 @@ layout: default
 ---
 # About
 
-Test.
+## Test
+
+{{ site.url }}
