@@ -3,6 +3,6 @@ layout: default
 ---
 # About
 
-## Test
+## Site.Url
 
 {{ site.url }}

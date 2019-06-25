@@ -5,7 +5,7 @@ title: Index
 description: description text
 ---
 
-# Home
+# Index
 
 [Raw Html](html/index.html){: .start-btn}
 [Result Menu Test](result-menu-test.html){: .start-btn}
