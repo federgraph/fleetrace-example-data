@@ -1,0 +1,36 @@
+.h, .hl {
+    text-align: right;
+}
+.g0 {
+    border-right: 3px yellowgreen solid !important;
+}
+.g1 {
+    border-right: 3px orange solid !important;
+}
+.g2 {
+    border-right: 3px cornflowerblue solid !important;
+}
+.g3 {
+    border-right: 3px tomato solid !important;
+}
+#result.g4 {
+    border-right: 3px yellowgreen solid !important;
+}
+
+table.fr {
+    overflow: visible;
+}
+
+table.properties {
+    margin-top: 10px;
+}
+
+#index_table {
+    display: none;
+}
+
+/* undo rouge highlight, at least font-weight: bold; */
+.highlight .nl {
+    font-weight: normal;
+  }
+  
