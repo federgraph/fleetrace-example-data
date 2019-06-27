@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<FR>
+  <Properties StartlistCount="15" ITCount="0" RaceCount="11" DivisionName="*" InputMode="Strict">
+    <EP K="Name" V="Q 2008 Tornado"/>
+    <EP K="ScoringSystem" V="Low Point System"/>
+    <EP K="Throwouts" V="1"/>
+    <EP K="DivisionName" V="*"/>
+    <EP K="InputMode" V="Strict"/>
+    <EP K="RaceLayout" V="Finish"/>
+    <EP K="NameSchema" V="NX"/>
+    <EP K="FieldCaptions" V="N1,N2,-,NOC,-,-"/>
+    <EP K="FieldCount" V="6"/>
+    <EP K="NameFieldCount" V="0"/>
+    <EP K="NameFieldOrder" V=""/>
+    <EP K="ColorMode" V="Fleet"/>
+    <EP K="UseFleets" V="True"/>
+    <EP K="TargetFleetSize" V="15"/>
+    <EP K="FirstFinalRace" V="11"/>
+    <EP K="UseCompactFormat" V="True"/>
+  </Properties>
+  <StartList>
+    <Pos oID="1" Bib="3" SNR="1000"/>
+    <Pos oID="2" Bib="7" SNR="1001"/>
+    <Pos oID="3" Bib="2" SNR="1002"/>
+    <Pos oID="4" Bib="12" SNR="1003"/>
+    <Pos oID="5" Bib="10" SNR="1004"/>
+    <Pos oID="6" Bib="1" SNR="1005"/>
+    <Pos oID="7" Bib="5" SNR="1006"/>
+    <Pos oID="8" Bib="4" SNR="1007"/>
+    <Pos oID="9" Bib="8" SNR="1008"/>
+    <Pos oID="10" Bib="14" SNR="1009"/>
+    <Pos oID="11" Bib="9" SNR="1010"/>
+    <Pos oID="12" Bib="13" SNR="1011"/>
+    <Pos oID="13" Bib="6" SNR="1012"/>
+    <Pos oID="14" Bib="11" SNR="1013"/>
+    <Pos oID="15" Bib="15" SNR="1014"/>
+  </StartList>
+  <FleetList>
+    <FL>SNR;Bib;R1;R2;R3;R4;R5;R6;R7;R8;R9;R10;R11</FL>
+    <FL>1000;3;1;1;1;1;1;1;1;1;1;1;0</FL>
+    <FL>1001;7;1;1;1;1;1;1;1;1;1;1;0</FL>
+    <FL>1002;2;1;1;1;1;1;1;1;1;1;1;0</FL>
+    <FL>1003;12;1;1;1;1;1;1;1;1;1;1;0</FL>
+    <FL>1004;10;1;1;1;1;1;1;1;1;1;1;0</FL>
+    <FL>1005;1;1;1;1;1;1;1;1;1;1;1;0</FL>
+    <FL>1006;5;1;1;1;1;1;1;1;1;1;1;0</FL>
+    <FL>1007;4;1;1;1;1;1;1;1;1;1;1;0</FL>
+    <FL>1008;8;1;1;1;1;1;1;1;1;1;1;0</FL>
+    <FL>1009;14;1;1;1;1;1;1;1;1;1;1;0</FL>
+    <FL>1010;9;1;1;1;1;1;1;1;1;1;1;1</FL>
+    <FL>1011;13;1;1;1;1;1;1;1;1;1;1;1</FL>
+    <FL>1012;6;1;1;1;1;1;1;1;1;1;1;1</FL>
+    <FL>1013;11;1;1;1;1;1;1;1;1;1;1;1</FL>
+    <FL>1014;15;1;1;1;1;1;1;1;1;1;1;1</FL>
+  </FleetList>
+  <FinishList>
+    <FL>SNR;Bib;R1;R2;R3;R4;R5;R6;R7;R8;R9;R10;R11</FL>
+    <FL>1000;3;1;6;1;4;7;13;1;7;1;8;4</FL>
+    <FL>1001;7;5;4;3;1;5;9;2;8;7;4;5</FL>
+    <FL>1002;2;13;1;2;12;4;6;9;1;9;1;6</FL>
+    <FL>1003;12;10;7;11;5;6;1;5;13;4;3;0</FL>
+    <FL>1004;10;8;3;9;9;1;15;11;12;2;2;2</FL>
+    <FL>1005;1;15;9;4;2;8;4;6;11;8;6;3</FL>
+    <FL>1006;5;3;13;8;3;10;2;8;3;11;10;8</FL>
+    <FL>1007;4;2;5;12;7;2;12;4;10;6;13;0</FL>
+    <FL>1008;8;6;8;13;8;14;7;7;2;3;12;1</FL>
+    <FL>1009;14;12;10;14;10;11;3;3;9;5;5;7</FL>
+    <FL>1010;9;7;2;10;0;9;10;10;4;10;7;0</FL>
+    <FL>1011;13;11;11;5;6;3;8;13;6;0;9;0</FL>
+    <FL>1012;6;4;15;6;13;15;11;12;14;13;11;0</FL>
+    <FL>1013;11;9;14;0;0;13;5;14;5;12;14;0</FL>
+    <FL>1014;15;14;12;7;11;12;14;15;15;14;15;0</FL>
+  </FinishList>
+  <MsgList>
+    <ML>FR.*.W3.Bib2.QU=MAN/1.0</ML>
+    <ML>FR.*.W3.Bib11.QU=OCS</ML>
+    <ML>FR.*.W4.Bib9.QU=DNS</ML>
+    <ML>FR.*.W4.Bib11.QU=DNF</ML>
+    <ML>FR.*.W9.Bib13.QU=DNF</ML>
+    <ML>FR.*.W11.Bib12.QU=DNF</ML>
+    <ML>FR.*.W11.Bib4.QU=DNF</ML>
+    <ML>FR.*.W11.Bib9.RV=x</ML>
+    <ML>FR.*.W11.Bib13.RV=x</ML>
+    <ML>FR.*.W11.Bib6.RV=x</ML>
+    <ML>FR.*.W11.Bib11.RV=x</ML>
+    <ML>FR.*.W11.Bib15.RV=x</ML>
+  </MsgList>
+</FR>

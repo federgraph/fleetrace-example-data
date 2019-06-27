@@ -1,0 +1,275 @@
+<?xml version="1.0"?>
+<FR>
+  <Properties StartlistCount="67" ITCount="0" RaceCount="6" DivisionName="420" InputMode="Strict">
+    <EP K="Name" V="IDM 420 2000"/>
+    <EP K="ScoringSystem" V="Low Point System"/>
+    <EP K="Throwouts" V="1"/>
+    <EP K="DivisionName" V="420"/>
+    <EP K="InputMode" V="Strict"/>
+    <EP K="RaceLayout" V="Finish"/>
+    <EP K="NameSchema" V="NX"/>
+    <EP K="FieldCount" V="6"/>
+    <EP K="NameFieldCount" V="0"/>
+    <EP K="NameFieldOrder" V=""/>
+    <EP K="ShowCupColumn" V="True"/>
+    <EP K="UseCompactFormat" V="True"/>
+    <EP K="Uniqua.Faktor" V="1.45"/>
+    <EP K="Uniqua.Enabled " V="False"/>
+    <EP K="Uniqua.Gesegelt" V="6"/>
+    <EP K="Uniqua.Gemeldet" V="67"/>
+    <EP K="Uniqua.Gezeitet" V="62"/>
+  </Properties>
+  <Entries/>   
+  <StartList>
+    <Pos oID="1" Bib="1" SNR="49818"/>
+    <Pos oID="2" Bib="2" SNR="48644"/>
+    <Pos oID="3" Bib="3" SNR="49538"/>
+    <Pos oID="4" Bib="4" SNR="50048"/>
+    <Pos oID="5" Bib="5" SNR="48839"/>
+    <Pos oID="6" Bib="6" SNR="48455"/>
+    <Pos oID="7" Bib="7" SNR="49097"/>
+    <Pos oID="8" Bib="8" SNR="48818"/>
+    <Pos oID="9" Bib="9" SNR="50050"/>
+    <Pos oID="10" Bib="10" SNR="49784"/>
+    <Pos oID="11" Bib="11" SNR="49840"/>
+    <Pos oID="12" Bib="12" SNR="50169"/>
+    <Pos oID="13" Bib="13" SNR="49766"/>
+    <Pos oID="14" Bib="14" SNR="46973"/>
+    <Pos oID="15" Bib="15" SNR="50049"/>
+    <Pos oID="16" Bib="16" SNR="48291"/>
+    <Pos oID="17" Bib="17" SNR="50052"/>
+    <Pos oID="18" Bib="18" SNR="49294"/>
+    <Pos oID="19" Bib="19" SNR="50056"/>
+    <Pos oID="20" Bib="20" SNR="49361"/>
+    <Pos oID="21" Bib="21" SNR="49145"/>
+    <Pos oID="22" Bib="22" SNR="48889"/>
+    <Pos oID="23" Bib="23" SNR="47013"/>
+    <Pos oID="24" Bib="24" SNR="50046"/>
+    <Pos oID="25" Bib="25" SNR="48293"/>
+    <Pos oID="26" Bib="26" SNR="50053"/>
+    <Pos oID="27" Bib="27" SNR="49095"/>
+    <Pos oID="28" Bib="28" SNR="50059"/>
+    <Pos oID="29" Bib="29" SNR="50248"/>
+    <Pos oID="30" Bib="30" SNR="50150"/>
+    <Pos oID="31" Bib="31" SNR="50149"/>
+    <Pos oID="32" Bib="32" SNR="50153"/>
+    <Pos oID="33" Bib="33" SNR="49096"/>
+    <Pos oID="34" Bib="34" SNR="49051"/>
+    <Pos oID="35" Bib="35" SNR="49893"/>
+    <Pos oID="36" Bib="36" SNR="48667"/>
+    <Pos oID="37" Bib="37" SNR="49395"/>
+    <Pos oID="38" Bib="38" SNR="49241"/>
+    <Pos oID="39" Bib="39" SNR="49775"/>
+    <Pos oID="40" Bib="40" SNR="50146"/>
+    <Pos oID="41" Bib="41" SNR="47872"/>
+    <Pos oID="42" Bib="42" SNR="49883"/>
+    <Pos oID="43" Bib="43" SNR="49789"/>
+    <Pos oID="44" Bib="44" SNR="48229"/>
+    <Pos oID="45" Bib="45" SNR="48921"/>
+    <Pos oID="46" Bib="46" SNR="48808"/>
+    <Pos oID="47" Bib="47" SNR="47463"/>
+    <Pos oID="48" Bib="48" SNR="49590"/>
+    <Pos oID="49" Bib="49" SNR="50090"/>
+    <Pos oID="50" Bib="50" SNR="47376"/>
+    <Pos oID="51" Bib="51" SNR="46844"/>
+    <Pos oID="52" Bib="52" SNR="49197"/>
+    <Pos oID="53" Bib="53" SNR="48302"/>
+    <Pos oID="54" Bib="54" SNR="49817"/>
+    <Pos oID="55" Bib="55" SNR="47143"/>
+    <Pos oID="56" Bib="56" SNR="49783"/>
+    <Pos oID="57" Bib="57" SNR="49788"/>
+    <Pos oID="58" Bib="58" SNR="48500"/>
+    <Pos oID="59" Bib="59" SNR="47380"/>
+    <Pos oID="60" Bib="60" SNR="49964"/>
+    <Pos oID="61" Bib="61" SNR="47261"/>
+    <Pos oID="62" Bib="62" SNR="49886"/>
+    <Pos oID="63" Bib="63" SNR="47150"/>
+    <Pos oID="64" Bib="64" SNR="47728"/>
+    <Pos oID="65" Bib="65" SNR="49547"/>
+    <Pos oID="66" Bib="66" SNR="49779"/>
+    <Pos oID="67" Bib="67" SNR="49799"/>
+  </StartList>
+  <FinishList>
+    <FL>SNR;Bib;R1;R2;R3;R4;R5;R6</FL>
+    <FL>49818;1;2;13;42;6;1;5</FL>
+    <FL>48644;2;5;14;4;4;9;11</FL>
+    <FL>49538;3;18;3;5;23;14;2</FL>
+    <FL>50048;4;12;12;26;7;3;22</FL>
+    <FL>48839;5;13;5;33;2;23;14</FL>
+    <FL>48455;6;0;25;15;15;6;3</FL>
+    <FL>49097;7;36;6;11;12;28;9</FL>
+    <FL>48818;8;10;0;7;5;35;19</FL>
+    <FL>50050;9;31;10;22;0;2;13</FL>
+    <FL>49784;10;14;0;1;48;4;12</FL>
+    <FL>49840;11;1;42;6;3;0;29</FL>
+    <FL>50169;12;22;11;12;53;24;17</FL>
+    <FL>49766;13;8;37;2;14;0;26</FL>
+    <FL>46973;14;0;26;8;11;16;28</FL>
+    <FL>50049;15;26;27;13;29;17;7</FL>
+    <FL>48291;16;38;9;28;18;15;21</FL>
+    <FL>50052;17;25;28;14;32;13;18</FL>
+    <FL>49294;18;0;41;18;20;20;4</FL>
+    <FL>50056;19;30;1;37;26;10;0</FL>
+    <FL>49361;20;3;33;0;9;32;30</FL>
+    <FL>49145;21;15;15;9;33;42;36</FL>
+    <FL>48889;22;20;4;36;44;8;0</FL>
+    <FL>47013;23;0;2;10;1;0;38</FL>
+    <FL>50046;24;0;23;40;8;34;15</FL>
+    <FL>48293;25;19;30;24;34;19;0</FL>
+    <FL>50053;26;0;34;17;41;27;10</FL>
+    <FL>49095;27;39;19;44;21;29;25</FL>
+    <FL>50059;28;9;21;16;24;0;0</FL>
+    <FL>50248;29;6;0;19;38;0;8</FL>
+    <FL>50150;30;24;38;48;13;37;27</FL>
+    <FL>50149;31;0;24;45;39;12;24</FL>
+    <FL>50153;32;0;22;34;28;21;42</FL>
+    <FL>49096;33;32;29;27;43;30;32</FL>
+    <FL>49051;34;11;0;21;45;0;6</FL>
+    <FL>49893;35;7;36;46;30;0;34</FL>
+    <FL>48667;36;35;18;43;19;41;49</FL>
+    <FL>49395;37;16;0;0;0;7;1</FL>
+    <FL>49241;38;27;7;47;0;43;39</FL>
+    <FL>49775;39;0;39;39;16;5;0</FL>
+    <FL>50146;40;28;0;31;0;11;33</FL>
+    <FL>47872;41;17;16;32;42;0;0</FL>
+    <FL>49883;42;23;40;0;31;0;16</FL>
+    <FL>49789;43;0;8;3;35;0;0</FL>
+    <FL>48229;44;0;47;23;49;18;46</FL>
+    <FL>48921;45;0;43;38;27;33;51</FL>
+    <FL>48808;46;29;0;35;57;31;40</FL>
+    <FL>47463;47;33;44;20;54;0;45</FL>
+    <FL>49590;48;0;45;49;36;26;44</FL>
+    <FL>50090;49;0;31;29;40;0;35</FL>
+    <FL>47376;50;34;35;52;56;38;47</FL>
+    <FL>46844;51;21;20;0;50;0;48</FL>
+    <FL>49197;52;0;0;0;10;39;23</FL>
+    <FL>48302;53;4;0;0;37;40;0</FL>
+    <FL>49817;54;0;0;0;22;22;43</FL>
+    <FL>47143;55;0;0;41;52;25;37</FL>
+    <FL>49783;56;0;0;25;47;0;20</FL>
+    <FL>49788;57;37;0;0;25;0;31</FL>
+    <FL>48500;58;0;32;51;51;0;41</FL>
+    <FL>47380;59;0;46;30;55;0;50</FL>
+    <FL>49964;60;0;17;0;46;0;0</FL>
+    <FL>47261;61;0;0;50;17;0;0</FL>
+    <FL>49886;62;0;48;53;0;36;0</FL>
+    <FL>47150;63;0;0;0;0;0;0</FL>
+    <FL>47728;64;0;0;0;0;0;0</FL>
+    <FL>49547;65;0;0;0;0;0;0</FL>
+    <FL>49779;66;0;0;0;0;0;0</FL>
+    <FL>49799;67;0;0;0;0;0;0</FL>
+  </FinishList>
+  <MsgList>
+    <ML>FR.*.W1.Bib6.QU=RAF</ML>
+    <ML>FR.*.W1.Bib14.QU=DNF</ML>
+    <ML>FR.*.W1.Bib18.QU=RAF</ML>
+    <ML>FR.*.W1.Bib23.QU=BFD</ML>
+    <ML>FR.*.W1.Bib24.QU=RAF</ML>
+    <ML>FR.*.W1.Bib26.QU=RAF</ML>
+    <ML>FR.*.W1.Bib31.QU=DSQ</ML>
+    <ML>FR.*.W1.Bib32.QU=RAF</ML>
+    <ML>FR.*.W1.Bib39.QU=RAF</ML>
+    <ML>FR.*.W1.Bib43.QU=DSQ</ML>
+    <ML>FR.*.W1.Bib44.QU=BFD</ML>
+    <ML>FR.*.W1.Bib45.QU=RAF</ML>
+    <ML>FR.*.W1.Bib48.QU=DNF</ML>
+    <ML>FR.*.W1.Bib49.QU=BFD</ML>
+    <ML>FR.*.W1.Bib52.QU=RAF</ML>
+    <ML>FR.*.W1.Bib54.QU=RAF</ML>
+    <ML>FR.*.W1.Bib55.QU=BFD</ML>
+    <ML>FR.*.W1.Bib56.QU=DSQ</ML>
+    <ML>FR.*.W1.Bib58.QU=RAF</ML>
+    <ML>FR.*.W1.Bib59.QU=DSQ</ML>
+    <ML>FR.*.W1.Bib60.QU=RAF</ML>
+    <ML>FR.*.W1.Bib61.QU=DSQ</ML>
+    <ML>FR.*.W1.Bib62.QU=RAF</ML>
+    <ML>FR.*.W1.Bib63.QU=DNC</ML>
+    <ML>FR.*.W1.Bib64.QU=DNC</ML>
+    <ML>FR.*.W1.Bib65.QU=DNC</ML>
+    <ML>FR.*.W1.Bib66.QU=DNC</ML>
+    <ML>FR.*.W1.Bib67.QU=DNC</ML>
+    <ML>FR.*.W2.Bib8.QU=BFD</ML>
+    <ML>FR.*.W2.Bib10.QU=BFD</ML>
+    <ML>FR.*.W2.Bib29.QU=BFD</ML>
+    <ML>FR.*.W2.Bib34.QU=BFD</ML>
+    <ML>FR.*.W2.Bib37.QU=BFD</ML>
+    <ML>FR.*.W2.Bib40.QU=BFD</ML>
+    <ML>FR.*.W2.Bib46.QU=DNF</ML>
+    <ML>FR.*.W2.Bib52.QU=BFD</ML>
+    <ML>FR.*.W2.Bib53.QU=BFD</ML>
+    <ML>FR.*.W2.Bib54.QU=BFD</ML>
+    <ML>FR.*.W2.Bib55.QU=BFD</ML>
+    <ML>FR.*.W2.Bib56.QU=BFD</ML>
+    <ML>FR.*.W2.Bib57.QU=BFD</ML>
+    <ML>FR.*.W2.Bib61.QU=BFD</ML>
+    <ML>FR.*.W2.Bib63.QU=DNC</ML>
+    <ML>FR.*.W2.Bib64.QU=DNC</ML>
+    <ML>FR.*.W2.Bib65.QU=DNC</ML>
+    <ML>FR.*.W2.Bib66.QU=DNC</ML>
+    <ML>FR.*.W2.Bib67.QU=DNC</ML>
+    <ML>FR.*.W3.Bib20.QU=BFD</ML>
+    <ML>FR.*.W3.Bib37.QU=BFD</ML>
+    <ML>FR.*.W3.Bib42.QU=BFD</ML>
+    <ML>FR.*.W3.Bib51.QU=DSQ</ML>
+    <ML>FR.*.W3.Bib52.QU=BFD</ML>
+    <ML>FR.*.W3.Bib53.QU=BFD</ML>
+    <ML>FR.*.W3.Bib54.QU=BFD</ML>
+    <ML>FR.*.W3.Bib57.QU=BFD</ML>
+    <ML>FR.*.W3.Bib60.QU=BFD</ML>
+    <ML>FR.*.W3.Bib63.QU=DNC</ML>
+    <ML>FR.*.W3.Bib64.QU=DNC</ML>
+    <ML>FR.*.W3.Bib65.QU=DNC</ML>
+    <ML>FR.*.W3.Bib66.QU=DNC</ML>
+    <ML>FR.*.W3.Bib67.QU=DNC</ML>
+    <ML>FR.*.W4.Bib9.QU=BFD</ML>
+    <ML>FR.*.W4.Bib37.QU=BFD</ML>
+    <ML>FR.*.W4.Bib38.QU=BFD</ML>
+    <ML>FR.*.W4.Bib40.QU=BFD</ML>
+    <ML>FR.*.W4.Bib62.QU=DNC</ML>
+    <ML>FR.*.W4.Bib63.QU=DNC</ML>
+    <ML>FR.*.W4.Bib64.QU=DNC</ML>
+    <ML>FR.*.W4.Bib65.QU=DNC</ML>
+    <ML>FR.*.W4.Bib66.QU=DNC</ML>
+    <ML>FR.*.W4.Bib67.QU=DNC</ML>
+    <ML>FR.*.W5.Bib11.QU=BFD</ML>
+    <ML>FR.*.W5.Bib13.QU=BFD</ML>
+    <ML>FR.*.W5.Bib23.QU=BFD</ML>
+    <ML>FR.*.W5.Bib28.QU=BFD</ML>
+    <ML>FR.*.W5.Bib29.QU=BFD</ML>
+    <ML>FR.*.W5.Bib34.QU=BFD</ML>
+    <ML>FR.*.W5.Bib35.QU=BFD</ML>
+    <ML>FR.*.W5.Bib41.QU=BFD</ML>
+    <ML>FR.*.W5.Bib42.QU=BFD</ML>
+    <ML>FR.*.W5.Bib43.QU=BFD</ML>
+    <ML>FR.*.W5.Bib47.QU=BFD</ML>
+    <ML>FR.*.W5.Bib49.QU=BFD</ML>
+    <ML>FR.*.W5.Bib51.QU=BFD</ML>
+    <ML>FR.*.W5.Bib56.QU=BFD</ML>
+    <ML>FR.*.W5.Bib57.QU=BFD</ML>
+    <ML>FR.*.W5.Bib58.QU=BFD</ML>
+    <ML>FR.*.W5.Bib59.QU=BFD</ML>
+    <ML>FR.*.W5.Bib60.QU=BFD</ML>
+    <ML>FR.*.W5.Bib61.QU=BFD</ML>
+    <ML>FR.*.W5.Bib63.QU=DNC</ML>
+    <ML>FR.*.W5.Bib64.QU=DNC</ML>
+    <ML>FR.*.W5.Bib65.QU=DNC</ML>
+    <ML>FR.*.W5.Bib66.QU=DNC</ML>
+    <ML>FR.*.W5.Bib67.QU=DNC</ML>
+    <ML>FR.*.W6.Bib19.QU=DNF</ML>
+    <ML>FR.*.W6.Bib22.QU=BFD</ML>
+    <ML>FR.*.W6.Bib25.QU=DNC</ML>
+    <ML>FR.*.W6.Bib28.QU=BFD</ML>
+    <ML>FR.*.W6.Bib39.QU=BFD</ML>
+    <ML>FR.*.W6.Bib41.QU=BFD</ML>
+    <ML>FR.*.W6.Bib43.QU=BFD</ML>
+    <ML>FR.*.W6.Bib53.QU=DNF</ML>
+    <ML>FR.*.W6.Bib60.QU=DNC</ML>
+    <ML>FR.*.W6.Bib61.QU=DNC</ML>
+    <ML>FR.*.W6.Bib62.QU=BFD</ML>
+    <ML>FR.*.W6.Bib63.QU=DNC</ML>
+    <ML>FR.*.W6.Bib64.QU=DNC</ML>
+    <ML>FR.*.W6.Bib65.QU=DNC</ML>
+    <ML>FR.*.W6.Bib66.QU=DNC</ML>
+    <ML>FR.*.W6.Bib67.QU=DNC</ML>
+  </MsgList>
+</FR>

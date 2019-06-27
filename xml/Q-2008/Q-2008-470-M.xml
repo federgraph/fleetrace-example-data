@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+<FR>
+  <Properties StartlistCount="29" ITCount="0" RaceCount="11" DivisionName="LaserRadial" InputMode="Strict">
+    <EP K="Name" V="Q 2008 470 M"/>
+    <EP K="ScoringSystem" V="Low Point System"/>
+    <EP K="Throwouts" V="1"/>
+    <EP K="DivisionName" V="LaserRadial"/>
+    <EP K="InputMode" V="Strict"/>
+    <EP K="RaceLayout" V="Finish"/>
+    <EP K="NameSchema" V="NX"/>
+    <EP K="FieldCaptions" V="N1,N2,-,NOC,-,-"/>
+    <EP K="FieldCount" V="6"/>
+    <EP K="NameFieldCount" V="0"/>
+    <EP K="NameFieldOrder" V=""/>
+    <EP K="ColorMode" V="Fleet"/>
+    <EP K="UseFleets" V="True"/>
+    <EP K="TargetFleetSize" V="29"/>
+    <EP K="FirstFinalRace" V="11"/>
+    <EP K="UseCompactFormat" V="True"/>
+  </Properties>
+  <StartList>
+    <Pos oID="1" Bib="1" SNR="1000"/>
+    <Pos oID="2" Bib="2" SNR="1001"/>
+    <Pos oID="3" Bib="3" SNR="1002"/>
+    <Pos oID="4" Bib="4" SNR="1003"/>
+    <Pos oID="5" Bib="5" SNR="1004"/>
+    <Pos oID="6" Bib="6" SNR="1005"/>
+    <Pos oID="7" Bib="7" SNR="1006"/>
+    <Pos oID="8" Bib="8" SNR="1007"/>
+    <Pos oID="9" Bib="9" SNR="1008"/>
+    <Pos oID="10" Bib="10" SNR="1009"/>
+    <Pos oID="11" Bib="11" SNR="1010"/>
+    <Pos oID="12" Bib="12" SNR="1011"/>
+    <Pos oID="13" Bib="13" SNR="1012"/>
+    <Pos oID="14" Bib="14" SNR="1013"/>
+    <Pos oID="15" Bib="15" SNR="1014"/>
+    <Pos oID="16" Bib="16" SNR="1015"/>
+    <Pos oID="17" Bib="17" SNR="1016"/>
+    <Pos oID="18" Bib="18" SNR="1017"/>
+    <Pos oID="19" Bib="19" SNR="1018"/>
+    <Pos oID="20" Bib="20" SNR="1019"/>
+    <Pos oID="21" Bib="21" SNR="1020"/>
+    <Pos oID="22" Bib="22" SNR="1021"/>
+    <Pos oID="23" Bib="23" SNR="1022"/>
+    <Pos oID="24" Bib="24" SNR="1023"/>
+    <Pos oID="25" Bib="25" SNR="1024"/>
+    <Pos oID="26" Bib="26" SNR="1025"/>
+    <Pos oID="27" Bib="27" SNR="1026"/>
+    <Pos oID="28" Bib="28" SNR="1027"/>
+    <Pos oID="29" Bib="29" SNR="1028"/>
+  </StartList>
+  <FleetList>
+    <FL>SNR;Bib;R1;R2;R3;R4;R5;R6;R7;R8;R9;R10;R11</FL>
+    <FL>1000;1;1;1;1;1;1;1;1;1;1;1;0</FL>
+    <FL>1001;2;1;1;1;1;1;1;1;1;1;1;0</FL>
+    <FL>1002;3;1;1;1;1;1;1;1;1;1;1;0</FL>
+    <FL>1003;4;1;1;1;1;1;1;1;1;1;1;0</FL>
+    <FL>1004;5;1;1;1;1;1;1;1;1;1;1;0</FL>
+    <FL>1005;6;1;1;1;1;1;1;1;1;1;1;0</FL>
+    <FL>1006;7;1;1;1;1;1;1;1;1;1;1;0</FL>
+    <FL>1007;8;1;1;1;1;1;1;1;1;1;1;0</FL>
+    <FL>1008;9;1;1;1;1;1;1;1;1;1;1;0</FL>
+    <FL>1009;10;1;1;1;1;1;1;1;1;1;1;0</FL>
+    <FL>1010;11;1;1;1;1;1;1;1;1;1;1;1</FL>
+    <FL>1011;12;1;1;1;1;1;1;1;1;1;1;1</FL>
+    <FL>1012;13;1;1;1;1;1;1;1;1;1;1;1</FL>
+    <FL>1013;14;1;1;1;1;1;1;1;1;1;1;1</FL>
+    <FL>1014;15;1;1;1;1;1;1;1;1;1;1;1</FL>
+    <FL>1015;16;1;1;1;1;1;1;1;1;1;1;1</FL>
+    <FL>1016;17;1;1;1;1;1;1;1;1;1;1;1</FL>
+    <FL>1017;18;1;1;1;1;1;1;1;1;1;1;1</FL>
+    <FL>1018;19;1;1;1;1;1;1;1;1;1;1;1</FL>
+    <FL>1019;20;1;1;1;1;1;1;1;1;1;1;1</FL>
+    <FL>1020;21;1;1;1;1;1;1;1;1;1;1;1</FL>
+    <FL>1021;22;1;1;1;1;1;1;1;1;1;1;1</FL>
+    <FL>1022;23;1;1;1;1;1;1;1;1;1;1;1</FL>
+    <FL>1023;24;1;1;1;1;1;1;1;1;1;1;1</FL>
+    <FL>1024;25;1;1;1;1;1;1;1;1;1;1;1</FL>
+    <FL>1025;26;1;1;1;1;1;1;1;1;1;1;1</FL>
+    <FL>1026;27;1;1;1;1;1;1;1;1;1;1;1</FL>
+    <FL>1027;28;1;1;1;1;1;1;1;1;1;1;1</FL>
+    <FL>1028;29;1;1;1;1;1;1;1;1;1;1;1</FL>
+  </FleetList>
+  <FinishList>
+    <FL>SNR;Bib;R1;R2;R3;R4;R5;R6;R7;R8;R9;R10;R11</FL>
+    <FL>1000;1;4;7;3;3;3;4;5;16;3;10;1</FL>
+    <FL>1001;2;19;5;1;4;9;6;20;0;2;3;3</FL>
+    <FL>1002;3;6;3;8;1;6;18;3;14;7;20;6</FL>
+    <FL>1003;4;11;15;12;2;8;15;2;8;4;2;7</FL>
+    <FL>1004;5;8;2;6;9;13;13;13;4;11;18;4</FL>
+    <FL>1005;6;10;4;7;7;2;21;19;6;29;5;5</FL>
+    <FL>1006;7;1;20;24;13;10;14;1;9;21;4;2</FL>
+    <FL>1007;8;2;8;15;6;11;7;9;0;10;14;10</FL>
+    <FL>1008;9;18;6;9;0;12;17;6;7;15;1;8</FL>
+    <FL>1009;10;14;14;4;11;19;9;7;0;5;9;9</FL>
+    <FL>1010;11;7;10;14;12;0;10;22;12;1;7;0</FL>
+    <FL>1011;12;5;26;11;8;5;5;18;3;20;29;0</FL>
+    <FL>1012;13;26;12;0;17;15;1;4;1;6;23;0</FL>
+    <FL>1013;14;13;16;13;14;0;11;15;2;12;12;0</FL>
+    <FL>1014;15;16;18;2;5;0;20;17;13;14;6;0</FL>
+    <FL>1015;16;22;1;17;15;1;25;21;15;13;24;0</FL>
+    <FL>1016;17;9;0;10;18;4;0;16;10;24;13;0</FL>
+    <FL>1017;18;3;11;19;10;18;0;25;20;25;8;0</FL>
+    <FL>1018;19;20;9;20;23;17;16;8;24;23;15;0</FL>
+    <FL>1019;20;27;21;22;21;24;12;11;11;18;17;0</FL>
+    <FL>1020;21;29;27;16;26;16;2;12;17;16;27;0</FL>
+    <FL>1021;22;15;17;18;19;0;8;10;19;27;26;0</FL>
+    <FL>1022;23;21;23;5;25;7;0;27;26;9;19;0</FL>
+    <FL>1023;24;24;19;25;24;14;24;24;5;19;11;0</FL>
+    <FL>1024;25;17;24;21;27;20;3;23;25;22;25;0</FL>
+    <FL>1025;26;12;0;23;16;21;26;0;22;8;28;0</FL>
+    <FL>1026;27;28;22;27;0;25;19;14;23;17;21;0</FL>
+    <FL>1027;28;23;13;26;22;22;23;26;21;28;22;0</FL>
+    <FL>1028;29;25;25;0;20;23;22;0;18;26;16;0</FL>
+  </FinishList>
+  <MsgList>
+    <ML>FR.*.W2.Bib17.QU=OCS</ML>
+    <ML>FR.*.W2.Bib26.QU=DSQ</ML>
+    <ML>FR.*.W3.Bib13.QU=OCS</ML>
+    <ML>FR.*.W3.Bib29.QU=OCS</ML>
+    <ML>FR.*.W4.Bib9.QU=OCS</ML>
+    <ML>FR.*.W4.Bib27.QU=DSQ</ML>
+    <ML>FR.*.W5.Bib11.QU=BFD</ML>
+    <ML>FR.*.W5.Bib14.QU=BFD</ML>
+    <ML>FR.*.W5.Bib15.QU=BFD</ML>
+    <ML>FR.*.W5.Bib22.QU=BFD</ML>
+    <ML>FR.*.W6.Bib17.QU=OCS</ML>
+    <ML>FR.*.W6.Bib18.QU=OCS</ML>
+    <ML>FR.*.W6.Bib23.QU=OCS</ML>
+    <ML>FR.*.W7.Bib26.QU=OCS</ML>
+    <ML>FR.*.W7.Bib29.QU=OCS</ML>
+    <ML>FR.*.W8.Bib2.QU=OCS</ML>
+    <ML>FR.*.W8.Bib8.QU=OCS</ML>
+    <ML>FR.*.W8.Bib10.QU=OCS</ML>
+    <ML>FR.*.W11.Bib11.RV=x</ML>
+    <ML>FR.*.W11.Bib12.RV=x</ML>
+    <ML>FR.*.W11.Bib13.RV=x</ML>
+    <ML>FR.*.W11.Bib14.RV=x</ML>
+    <ML>FR.*.W11.Bib15.RV=x</ML>
+    <ML>FR.*.W11.Bib16.RV=x</ML>
+    <ML>FR.*.W11.Bib17.RV=x</ML>
+    <ML>FR.*.W11.Bib18.RV=x</ML>
+    <ML>FR.*.W11.Bib19.RV=x</ML>
+    <ML>FR.*.W11.Bib20.RV=x</ML>
+    <ML>FR.*.W11.Bib21.RV=x</ML>
+    <ML>FR.*.W11.Bib22.RV=x</ML>
+    <ML>FR.*.W11.Bib23.RV=x</ML>
+    <ML>FR.*.W11.Bib24.RV=x</ML>
+    <ML>FR.*.W11.Bib25.RV=x</ML>
+    <ML>FR.*.W11.Bib26.RV=x</ML>
+    <ML>FR.*.W11.Bib27.RV=x</ML>
+    <ML>FR.*.W11.Bib28.RV=x</ML>
+    <ML>FR.*.W11.Bib29.RV=x</ML>
+  </MsgList>
+</FR>

@@ -1,0 +1,130 @@
+#Params
+
+DP.StartlistCount = 16
+DP.ITCount = 5
+DP.RaceCount = 11
+
+#Event Properties
+
+EP.Name = A 2004 Yngling
+EP.ScoringSystem = Low Point System
+EP.Throwouts = 1
+EP.DivisionName = Yngling
+EP.InputMode = Strict
+EP.RaceLayout = Finish
+EP.NameSchema = NX
+EP.FieldMap = SN
+EP.FieldCaptions = FN,LN,Code,NOC,-,-
+EP.FieldCount = 6
+EP.NameFieldCount = 0
+EP.NameFieldOrder = 
+EP.UseFleets = False
+EP.TargetFleetSize = 8
+EP.FirstFinalRace = 20
+EP.IsTimed = False
+EP.UseCompactFormat = True
+
+NameList.Begin
+NameList.End
+
+StartList.Begin
+Pos;SNR;Bib
+1;1303;1
+2;1306;2
+3;1309;3
+4;1312;4
+5;1315;5
+6;1318;6
+7;1321;7
+8;1324;8
+9;1327;9
+10;1333;10
+11;1330;11
+12;1336;12
+13;1339;13
+14;1342;14
+15;1345;15
+16;1348;16
+StartList.End
+
+FinishList.Begin
+SNR;Bib;R1;R2;R3;R4;R5;R6;R7;R8;R9;R10;R11
+1303;1;11;11;12;11;8;16;5;2;13;10;10
+1306;2;4;15;6;14;16;14;9;16;16;11;4
+1309;3;13;9;15;16;12;12;12;14;15;2;12
+1312;4;1;14;5;6;5;6;3;4;6;5;0
+1315;5;3;2;14;12;9;13;10;3;2;3;1
+1318;6;9;8;2;13;1;7;15;5;11;13;8
+1321;7;5;4;1;1;4;3;4;6;3;8;0
+1324;8;12;6;8;5;6;8;16;10;8;9;0
+1327;9;16;12;7;8;13;15;6;11;14;14;7
+1333;10;15;16;3;3;2;9;11;7;12;7;9
+1330;11;8;1;13;9;3;5;8;13;5;4;2
+1336;12;14;13;4;7;10;1;14;8;9;15;6
+1339;13;6;5;11;2;14;4;13;1;10;12;3
+1342;14;7;7;10;15;11;11;7;12;4;6;11
+1345;15;10;3;9;4;7;2;2;9;1;16;5
+1348;16;2;10;16;10;15;10;1;15;7;1;0
+FinishList.End
+
+CompareList.Begin
+007=03900
+015=05000
+004=05400
+011=05600
+005=05700
+006=07600
+010=07700
+013=07900
+012=08500
+016=08600
+008=08600
+014=08600
+001=09200
+009=10600
+002=10800
+003=11600
+CompareList.End
+
+#W1
+
+
+#W2
+
+
+#W3
+
+
+#W4
+
+FR.*.W4.Bib13.QU=DSQ
+
+#W5
+
+
+#W6
+
+
+#W7
+
+
+#W8
+
+FR.*.W8.Bib8.QU=RDG/9.0
+FR.*.W8.Bib11.QU=RDG/12.0
+FR.*.W8.Bib15.QU=RDG/8.0
+
+#W9
+
+
+#W10
+
+
+#W11
+
+FR.*.W11.Bib4.QU=OCS
+FR.*.W11.Bib7.QU=DNC
+FR.*.W11.Bib8.QU=OCS
+FR.*.W11.Bib16.QU=OCS
+
+EP.IM = Strict

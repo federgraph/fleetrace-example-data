@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<FR>
+  <Properties StartlistCount="19" ITCount="0" RaceCount="11" DivisionName="LaserRadial" InputMode="Strict">
+    <EP K="Name" V="Q 2008 470 W"/>
+    <EP K="ScoringSystem" V="Low Point System"/>
+    <EP K="Throwouts" V="1"/>
+    <EP K="DivisionName" V="LaserRadial"/>
+    <EP K="InputMode" V="Strict"/>
+    <EP K="RaceLayout" V="Finish"/>
+    <EP K="NameSchema" V="NX"/>
+    <EP K="FieldCaptions" V="N1,N2,-,NOC,-,-"/>
+    <EP K="FieldCount" V="6"/>
+    <EP K="NameFieldCount" V="0"/>
+    <EP K="NameFieldOrder" V=""/>
+    <EP K="ColorMode" V="Fleet"/>
+    <EP K="UseFleets" V="True"/>
+    <EP K="TargetFleetSize" V="19"/>
+    <EP K="FirstFinalRace" V="11"/>
+    <EP K="UseCompactFormat" V="True"/>
+  </Properties>
+  <StartList>
+    <Pos oID="1" Bib="1" SNR="1000"/>
+    <Pos oID="2" Bib="2" SNR="1001"/>
+    <Pos oID="3" Bib="3" SNR="1002"/>
+    <Pos oID="4" Bib="4" SNR="1003"/>
+    <Pos oID="5" Bib="5" SNR="1004"/>
+    <Pos oID="6" Bib="6" SNR="1005"/>
+    <Pos oID="7" Bib="7" SNR="1006"/>
+    <Pos oID="8" Bib="8" SNR="1007"/>
+    <Pos oID="9" Bib="9" SNR="1008"/>
+    <Pos oID="10" Bib="10" SNR="1009"/>
+    <Pos oID="11" Bib="11" SNR="1010"/>
+    <Pos oID="12" Bib="12" SNR="1011"/>
+    <Pos oID="13" Bib="13" SNR="1012"/>
+    <Pos oID="14" Bib="14" SNR="1013"/>
+    <Pos oID="15" Bib="15" SNR="1014"/>
+    <Pos oID="16" Bib="16" SNR="1015"/>
+    <Pos oID="17" Bib="17" SNR="1016"/>
+    <Pos oID="18" Bib="18" SNR="1017"/>
+    <Pos oID="19" Bib="19" SNR="1018"/>
+  </StartList>
+  <FleetList>
+    <FL>SNR;Bib;R1;R2;R3;R4;R5;R6;R7;R8;R9;R10;R11</FL>
+    <FL>1000;1;1;1;1;1;1;1;1;1;1;1;0</FL>
+    <FL>1001;2;1;1;1;1;1;1;1;1;1;1;0</FL>
+    <FL>1002;3;1;1;1;1;1;1;1;1;1;1;0</FL>
+    <FL>1003;4;1;1;1;1;1;1;1;1;1;1;0</FL>
+    <FL>1004;5;1;1;1;1;1;1;1;1;1;1;0</FL>
+    <FL>1005;6;1;1;1;1;1;1;1;1;1;1;0</FL>
+    <FL>1006;7;1;1;1;1;1;1;1;1;1;1;0</FL>
+    <FL>1007;8;1;1;1;1;1;1;1;1;1;1;0</FL>
+    <FL>1008;9;1;1;1;1;1;1;1;1;1;1;0</FL>
+    <FL>1009;10;1;1;1;1;1;1;1;1;1;1;0</FL>
+    <FL>1010;11;1;1;1;1;1;1;1;1;1;1;1</FL>
+    <FL>1011;12;1;1;1;1;1;1;1;1;1;1;1</FL>
+    <FL>1012;13;1;1;1;1;1;1;1;1;1;1;1</FL>
+    <FL>1013;14;1;1;1;1;1;1;1;1;1;1;1</FL>
+    <FL>1014;15;1;1;1;1;1;1;1;1;1;1;1</FL>
+    <FL>1015;16;1;1;1;1;1;1;1;1;1;1;1</FL>
+    <FL>1016;17;1;1;1;1;1;1;1;1;1;1;1</FL>
+    <FL>1017;18;1;1;1;1;1;1;1;1;1;1;1</FL>
+    <FL>1018;19;1;1;1;1;1;1;1;1;1;1;1</FL>
+  </FleetList>
+  <FinishList>
+    <FL>SNR;Bib;R1;R2;R3;R4;R5;R6;R7;R8;R9;R10;R11</FL>
+    <FL>1000;1;2;2;4;1;9;4;2;5;3;2;9</FL>
+    <FL>1001;2;3;1;9;5;2;2;10;7;4;16;5</FL>
+    <FL>1002;3;11;16;5;10;7;6;6;2;7;4;1</FL>
+    <FL>1003;4;8;13;1;2;8;19;3;1;11;15;2</FL>
+    <FL>1004;5;14;7;6;3;6;11;4;19;12;6;3</FL>
+    <FL>1005;6;0;8;3;4;15;13;8;3;15;5;4</FL>
+    <FL>1006;7;6;4;12;11;11;5;11;11;9;1;7</FL>
+    <FL>1007;8;9;0;13;7;1;7;1;13;6;11;8</FL>
+    <FL>1008;9;7;6;11;9;5;12;0;8;8;12;6</FL>
+    <FL>1009;10;4;5;2;6;13;10;13;17;2;17;10</FL>
+    <FL>1010;11;1;11;16;8;17;9;9;9;13;9;0</FL>
+    <FL>1011;12;12;12;10;14;4;17;7;6;17;7;0</FL>
+    <FL>1012;13;0;3;8;16;12;3;15;18;14;3;0</FL>
+    <FL>1013;14;13;15;14;15;14;1;12;10;1;13;0</FL>
+    <FL>1014;15;10;14;18;0;19;8;5;14;5;8;0</FL>
+    <FL>1015;16;16;18;17;12;10;16;14;4;10;14;0</FL>
+    <FL>1016;17;15;9;7;13;3;15;0;15;18;19;0</FL>
+    <FL>1017;18;5;10;19;17;16;14;0;12;16;10;0</FL>
+    <FL>1018;19;17;17;15;18;18;18;0;16;19;18;0</FL>
+  </FinishList>
+  <MsgList>
+    <ML>FR.*.W1.Bib6.QU=DSQ</ML>
+    <ML>FR.*.W1.Bib13.QU=DSQ</ML>
+    <ML>FR.*.W2.Bib8.QU=DSQ</ML>
+    <ML>FR.*.W4.Bib15.QU=DSQ</ML>
+    <ML>FR.*.W7.Bib9.QU=OCS</ML>
+    <ML>FR.*.W7.Bib17.QU=OCS</ML>
+    <ML>FR.*.W7.Bib18.QU=OCS</ML>
+    <ML>FR.*.W7.Bib19.QU=OCS</ML>
+    <ML>FR.*.W11.Bib11.RV=x</ML>
+    <ML>FR.*.W11.Bib12.RV=x</ML>
+    <ML>FR.*.W11.Bib13.RV=x</ML>
+    <ML>FR.*.W11.Bib14.RV=x</ML>
+    <ML>FR.*.W11.Bib15.RV=x</ML>
+    <ML>FR.*.W11.Bib16.RV=x</ML>
+    <ML>FR.*.W11.Bib17.RV=x</ML>
+    <ML>FR.*.W11.Bib18.RV=x</ML>
+    <ML>FR.*.W11.Bib19.RV=x</ML>
+  </MsgList>
+</FR>

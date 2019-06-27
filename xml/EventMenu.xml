@@ -1,0 +1,90 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="utf-8" ?> 
+<EventMenu Root="{{ site.url }}/data/xml/">
+  <ComboEntry Caption="IDM 420">
+    <DataFolder Url="IDM-420/">
+      <ImgFolder Url="">
+        <Btn Data="IDM-420-1991.xml" Img="" Text="1991" />
+        <Btn Data="IDM-420-1997.xml" Img="" Text="1997" />
+        <Btn Data="IDM-420-2000.xml" Img="" Text="2000" />
+        <Btn Data="IDM-420-2004.xml" Img="" Text="2004" />
+      </ImgFolder>
+    </DataFolder>
+  </ComboEntry>
+  <ComboEntry Caption="A 2004">
+    <DataFolder Url="A-2004/">
+      <ImgFolder Url="">
+        <Btn Data="A-2004-49er.xml" Img="" Text="49er" />
+        <Btn Data="A-2004-470-M.xml" Img="" Text="470 M" />
+        <Btn Data="A-2004-470-W.xml" Img="" Text="470 W" />
+        <Btn Data="A-2004-Europe.xml" Img="" Text="Europe" />
+        <Btn Data="A-2004-Finn.xml" Img="" Text="Finn" />
+        <Btn Data="A-2004-Laser.xml" Img="" Text="Laser" />
+        <Btn Data="A-2004-Mistral-M.xml" Img="" Text="Mistral M" />
+        <Btn Data="A-2004-Mistral-W.xml" Img="" Text="Mistral W" />
+        <Btn Data="A-2004-Star.xml" Img="" Text="Star" />
+        <Btn Data="A-2004-Tornado.xml" Img="" Text="Tornado" />
+        <Btn Data="A-2004-Yngling.xml" Img="" Text="Yngling" />
+      </ImgFolder>
+    </DataFolder>
+  </ComboEntry>
+  <ComboEntry Caption="C 2007">
+    <DataFolder Url="C-2007/">
+      <ImgFolder Url="">
+        <Btn Data="C-2007-49er.xml" Img="" Text="49er" />
+        <Btn Data="C-2007-470-M.xml" Img="" Text="470 M" />
+        <Btn Data="C-2007-470-W.xml" Img="" Text="470 W" />
+        <Btn Data="C-2007-Finn.xml" Img="" Text="Finn" />
+        <Btn Data="C-2007-Laser.xml" Img="" Text="Laser M" />
+        <Btn Data="C-2007-Laser-Radial.xml" Img="" Text="Laser W" />
+        <Btn Data="C-2007-RSX-M.xml" Img="" Text="RSX M" />
+        <Btn Data="C-2007-RSX-W.xml" Img="" Text="RSX W" />
+        <Btn Data="C-2007-Star.xml" Img="" Text="Star" />
+        <Btn Data="C-2007-Tornado.xml" Img="" Text="Tornado" />
+        <Btn Data="C-2007-Yngling.xml" Img="" Text="Yngling" />
+      </ImgFolder>
+    </DataFolder>
+  </ComboEntry>
+  <ComboEntry Caption="Q 2008">
+    <DataFolder Url="Q-2008/">
+      <ImgFolder Url="">
+        <Btn Data="Q-2008-49er.xml" Img="" Text="49er" />
+        <Btn Data="Q-2008-470-M.xml" Img="" Text="470 M" />
+        <Btn Data="Q-2008-470-W.xml" Img="" Text="470 W" />
+        <Btn Data="Q-2008-Finn.xml" Img="" Text="Finn" />
+        <Btn Data="Q-2008-Laser.xml" Img="" Text="Laser M" />
+        <Btn Data="Q-2008-Laser-Radial.xml" Img="" Text="Laser W" />
+        <Btn Data="Q-2008-RSX-M.xml" Img="" Text="RSX M" />
+        <Btn Data="Q-2008-RSX-W.xml" Img="" Text="RSX W" />
+        <Btn Data="Q-2008-Star.xml" Img="" Text="Star" />
+        <Btn Data="Q-2008-Tornado.xml" Img="" Text="Tornado" />
+        <Btn Data="Q-2008-Yngling.xml" Img="" Text="Yngling" />
+      </ImgFolder>
+    </DataFolder>
+  </ComboEntry>
+  <ComboEntry Caption="P 2011">
+    <DataFolder Url="P-2011/">
+      <ImgFolder Url="">
+        <Btn Data="P-2011-49er.xml" Img="" Text="49er" />
+        <Btn Data="P-2011-470-M.xml" Img="" Text="470 M" />
+        <Btn Data="P-2011-470-W.xml" Img="" Text="470 W" />
+        <Btn Data="P-2011-Finn.xml" Img="" Text="Finn" />
+        <Btn Data="P-2011-Laser-M.xml" Img="" Text="Laser M" />
+        <Btn Data="P-2011-Laser-W.xml" Img="" Text="Laser W" />
+        <Btn Data="P-2011-RSX-M.xml" Img="" Text="RSX M" />
+        <Btn Data="P-2011-RSX-W.xml" Img="" Text="RSX W" />
+        <Btn Data="P-2011-Star.xml" Img="" Text="Star" />
+      </ImgFolder>
+    </DataFolder>
+  </ComboEntry>  
+  <ComboEntry Caption="Test">
+    <DataFolder Url="">
+      <ImgFolder Url="">
+        <Btn Data="FleetTest.xml" Img="" Text="FleetTest" />
+        <Btn Data="NameTest.xml" Img="" Text="NameTest" />
+      </ImgFolder>
+    </DataFolder>
+  </ComboEntry>
+</EventMenu>

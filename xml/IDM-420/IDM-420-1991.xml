@@ -1,0 +1,309 @@
+<?xml version="1.0"?>
+<FR>
+  <Properties StartlistCount="80" ITCount="0" RaceCount="6" DivisionName="*" InputMode="Strict">
+    <EP K="Name" V="IDM 420 1991"/>
+    <EP K="ScoringSystem" V="Bonus Point System"/>
+    <EP K="Throwouts" V="1"/>
+    <EP K="DivisionName" V="*"/>
+    <EP K="InputMode" V="Strict"/>
+    <EP K="RaceLayout" V="Finish"/>
+    <EP K="NameSchema" V="NX"/>
+    <EP K="FieldCaptions" V=""/>
+    <EP K="FieldCount" V="6"/>
+    <EP K="NameFieldCount" V="0"/>
+    <EP K="NameFieldOrder" V=""/>
+    <EP K="ShowCupColumn" V="True"/>
+    <EP K="UseCompactFormat" V="True"/>
+    <EP K="Uniqua.Faktor" V="1.45"/>
+    <EP K="Uniqua.Enabled " V="False"/>
+    <EP K="Uniqua.Gesegelt" V="6"/>
+    <EP K="Uniqua.Gemeldet" V="80"/>
+    <EP K="Uniqua.Gezeitet" V="71"/>
+  </Properties>
+  <StartList>
+    <Pos oID="1" Bib="1" SNR="46608"/>
+    <Pos oID="2" Bib="2" SNR="44902"/>
+    <Pos oID="3" Bib="3" SNR="46411"/>
+    <Pos oID="4" Bib="4" SNR="45331"/>
+    <Pos oID="5" Bib="5" SNR="45003"/>
+    <Pos oID="6" Bib="6" SNR="46594"/>
+    <Pos oID="7" Bib="7" SNR="45435"/>
+    <Pos oID="8" Bib="8" SNR="45434"/>
+    <Pos oID="9" Bib="9" SNR="45199"/>
+    <Pos oID="10" Bib="10" SNR="46016"/>
+    <Pos oID="11" Bib="11" SNR="46517"/>
+    <Pos oID="12" Bib="12" SNR="46475"/>
+    <Pos oID="13" Bib="13" SNR="42777"/>
+    <Pos oID="14" Bib="14" SNR="45439"/>
+    <Pos oID="15" Bib="15" SNR="46467"/>
+    <Pos oID="16" Bib="16" SNR="45953"/>
+    <Pos oID="17" Bib="17" SNR="46310"/>
+    <Pos oID="18" Bib="18" SNR="45950"/>
+    <Pos oID="19" Bib="19" SNR="45451"/>
+    <Pos oID="20" Bib="20" SNR="46597"/>
+    <Pos oID="21" Bib="21" SNR="44968"/>
+    <Pos oID="22" Bib="22" SNR="45940"/>
+    <Pos oID="23" Bib="23" SNR="45996"/>
+    <Pos oID="24" Bib="24" SNR="45690"/>
+    <Pos oID="25" Bib="25" SNR="44994"/>
+    <Pos oID="26" Bib="26" SNR="46523"/>
+    <Pos oID="27" Bib="27" SNR="46409"/>
+    <Pos oID="28" Bib="28" SNR="45453"/>
+    <Pos oID="29" Bib="29" SNR="46410"/>
+    <Pos oID="30" Bib="30" SNR="44455"/>
+    <Pos oID="31" Bib="31" SNR="45991"/>
+    <Pos oID="32" Bib="32" SNR="44456"/>
+    <Pos oID="33" Bib="33" SNR="45333"/>
+    <Pos oID="34" Bib="34" SNR="46015"/>
+    <Pos oID="35" Bib="35" SNR="45185"/>
+    <Pos oID="36" Bib="36" SNR="46521"/>
+    <Pos oID="37" Bib="37" SNR="41152"/>
+    <Pos oID="38" Bib="38" SNR="45090"/>
+    <Pos oID="39" Bib="39" SNR="46580"/>
+    <Pos oID="40" Bib="40" SNR="43113"/>
+    <Pos oID="41" Bib="41" SNR="45687"/>
+    <Pos oID="42" Bib="42" SNR="45411"/>
+    <Pos oID="43" Bib="43" SNR="46609"/>
+    <Pos oID="44" Bib="44" SNR="44318"/>
+    <Pos oID="45" Bib="45" SNR="44955"/>
+    <Pos oID="46" Bib="46" SNR="44961"/>
+    <Pos oID="47" Bib="47" SNR="45369"/>
+    <Pos oID="48" Bib="48" SNR="44897"/>
+    <Pos oID="49" Bib="49" SNR="42783"/>
+    <Pos oID="50" Bib="50" SNR="46193"/>
+    <Pos oID="51" Bib="51" SNR="45087"/>
+    <Pos oID="52" Bib="52" SNR="42286"/>
+    <Pos oID="53" Bib="53" SNR="45684"/>
+    <Pos oID="54" Bib="54" SNR="46312"/>
+    <Pos oID="55" Bib="55" SNR="44423"/>
+    <Pos oID="56" Bib="56" SNR="46562"/>
+    <Pos oID="57" Bib="57" SNR="45686"/>
+    <Pos oID="58" Bib="58" SNR="44941"/>
+    <Pos oID="59" Bib="59" SNR="42646"/>
+    <Pos oID="60" Bib="60" SNR="45251"/>
+    <Pos oID="61" Bib="61" SNR="45949"/>
+    <Pos oID="62" Bib="62" SNR="44430"/>
+    <Pos oID="63" Bib="63" SNR="45396"/>
+    <Pos oID="64" Bib="64" SNR="46600"/>
+    <Pos oID="65" Bib="65" SNR="45944"/>
+    <Pos oID="66" Bib="66" SNR="44624"/>
+    <Pos oID="67" Bib="67" SNR="43987"/>
+    <Pos oID="68" Bib="68" SNR="39835"/>
+    <Pos oID="69" Bib="69" SNR="46742"/>
+    <Pos oID="70" Bib="70" SNR="41318"/>
+    <Pos oID="71" Bib="71" SNR="44457"/>
+    <Pos oID="72" Bib="72" SNR="44223"/>
+    <Pos oID="73" Bib="73" SNR="33159"/>
+    <Pos oID="74" Bib="74" SNR="44942"/>
+    <Pos oID="75" Bib="75" SNR="40733"/>
+    <Pos oID="76" Bib="76" SNR="45954"/>
+    <Pos oID="77" Bib="77" SNR="45719"/>
+    <Pos oID="78" Bib="78" SNR="45082"/>
+    <Pos oID="79" Bib="79" SNR="1"/>
+    <Pos oID="80" Bib="80" SNR="43917"/>
+  </StartList>
+  <Entries/>
+  <FinishList>
+    <FL>SNR;Bib;R1;R2;R3;R4;R5;R6</FL>
+    <FL>46608;1;2;1;2;2;4;0</FL>
+    <FL>44902;2;4;6;3;1;3;0</FL>
+    <FL>46411;3;12;12;1;5;6;3</FL>
+    <FL>45331;4;20;2;0;4;2;4</FL>
+    <FL>45003;5;5;8;5;7;13;8</FL>
+    <FL>46594;6;6;3;23;8;14;11</FL>
+    <FL>45435;7;1;31;9;39;5;5</FL>
+    <FL>45434;8;35;14;6;20;7;2</FL>
+    <FL>45199;9;31;5;11;3;27;7</FL>
+    <FL>46016;10;13;18;55;31;1;1</FL>
+    <FL>46517;11;9;21;19;9;11;21</FL>
+    <FL>46475;12;3;17;16;25;22;19</FL>
+    <FL>42777;13;11;35;14;16;16;18</FL>
+    <FL>45439;14;8;13;20;22;23;16</FL>
+    <FL>46467;15;25;27;4;26;8;0</FL>
+    <FL>45953;16;33;10;15;12;18;0</FL>
+    <FL>46310;17;37;4;24;21;34;9</FL>
+    <FL>45950;18;14;23;10;11;41;33</FL>
+    <FL>45451;19;7;9;29;6;0;45</FL>
+    <FL>46597;20;16;7;8;48;43;36</FL>
+    <FL>44968;21;32;11;13;23;33;0</FL>
+    <FL>45940;22;0;26;31;17;31;10</FL>
+    <FL>45996;23;10;43;0;32;21;13</FL>
+    <FL>45690;24;22;22;17;40;20;51</FL>
+    <FL>44994;25;18;33;26;33;38;14</FL>
+    <FL>46523;26;27;28;21;55;46;12</FL>
+    <FL>46409;27;34;25;34;18;48;29</FL>
+    <FL>45453;28;0;24;39;13;39;27</FL>
+    <FL>46410;29;0;20;30;28;42;23</FL>
+    <FL>44455;30;0;52;22;30;35;6</FL>
+    <FL>45991;31;39;16;18;29;51;0</FL>
+    <FL>44456;32;45;34;36;15;53;24</FL>
+    <FL>45333;33;19;42;48;46;15;34</FL>
+    <FL>46015;34;15;39;58;41;19;42</FL>
+    <FL>45185;35;23;19;27;0;57;31</FL>
+    <FL>46521;36;21;37;0;0;9;20</FL>
+    <FL>41152;37;26;32;53;45;36;30</FL>
+    <FL>45090;38;40;0;0;10;24;15</FL>
+    <FL>46580;39;46;0;45;50;12;17</FL>
+    <FL>43113;40;17;47;51;19;54;38</FL>
+    <FL>45687;41;30;29;41;0;26;52</FL>
+    <FL>45411;42;54;30;59;47;25;25</FL>
+    <FL>46609;43;47;50;33;27;62;26</FL>
+    <FL>44318;44;36;51;28;0;47;22</FL>
+    <FL>44955;45;29;41;46;51;30;40</FL>
+    <FL>44961;46;48;44;32;24;60;50</FL>
+    <FL>45369;47;0;15;37;36;37;0</FL>
+    <FL>44897;48;44;61;25;37;61;39</FL>
+    <FL>42783;49;38;49;56;53;50;28</FL>
+    <FL>46193;50;55;46;44;34;56;44</FL>
+    <FL>45087;51;42;45;60;56;49;35</FL>
+    <FL>42286;52;53;57;42;43;52;37</FL>
+    <FL>45684;53;0;58;40;0;10;43</FL>
+    <FL>46312;54;0;36;35;35;45;0</FL>
+    <FL>44423;55;0;53;50;38;44;47</FL>
+    <FL>46562;56;49;56;38;44;55;49</FL>
+    <FL>45686;57;28;40;7;0;0;0</FL>
+    <FL>44941;58;43;62;0;54;40;41</FL>
+    <FL>42646;59;60;64;49;52;32;48</FL>
+    <FL>45251;60;41;54;43;0;28;0</FL>
+    <FL>45949;61;57;48;0;0;29;32</FL>
+    <FL>44430;62;50;55;57;49;58;46</FL>
+    <FL>45396;63;52;38;52;42;0;0</FL>
+    <FL>46600;64;0;0;12;14;0;0</FL>
+    <FL>45944;65;24;0;0;0;17;0</FL>
+    <FL>44624;66;59;59;0;58;63;53</FL>
+    <FL>43987;67;56;60;47;0;0;0</FL>
+    <FL>39835;68;61;65;61;0;59;0</FL>
+    <FL>46742;69;58;63;54;0;0;0</FL>
+    <FL>41318;70;51;0;0;57;0;0</FL>
+    <FL>44457;71;0;66;0;0;0;0</FL>
+    <FL>44223;72;0;0;0;0;0;0</FL>
+    <FL>33159;73;0;0;0;0;0;0</FL>
+    <FL>44942;74;0;0;0;0;0;0</FL>
+    <FL>40733;75;0;0;0;0;0;0</FL>
+    <FL>45954;76;0;0;0;0;0;0</FL>
+    <FL>45719;77;0;0;0;0;0;0</FL>
+    <FL>45082;78;0;0;0;0;0;0</FL>
+    <FL>1;79;0;0;0;0;0;0</FL>
+    <FL>43917;80;0;0;0;0;0;0</FL>
+  </FinishList>
+  <MsgList>
+    <ML>FR.*.W1.Bib22.QU=DNF</ML>
+    <ML>FR.*.W1.Bib28.QU=DNF</ML>
+    <ML>FR.*.W1.Bib29.QU=DSQ</ML>
+    <ML>FR.*.W1.Bib30.QU=DSQ</ML>
+    <ML>FR.*.W1.Bib47.QU=DSQ</ML>
+    <ML>FR.*.W1.Bib53.QU=DNF</ML>
+    <ML>FR.*.W1.Bib54.QU=DNF</ML>
+    <ML>FR.*.W1.Bib55.QU=DSQ</ML>
+    <ML>FR.*.W1.Bib64.QU=DSQ</ML>
+    <ML>FR.*.W1.Bib71.QU=DNF</ML>
+    <ML>FR.*.W1.Bib72.QU=DNS</ML>
+    <ML>FR.*.W1.Bib73.QU=DNS</ML>
+    <ML>FR.*.W1.Bib74.QU=DSQ</ML>
+    <ML>FR.*.W1.Bib75.QU=DSQ</ML>
+    <ML>FR.*.W1.Bib76.QU=DNS</ML>
+    <ML>FR.*.W1.Bib77.QU=DNS</ML>
+    <ML>FR.*.W1.Bib78.QU=DNS</ML>
+    <ML>FR.*.W1.Bib79.QU=DSQ</ML>
+    <ML>FR.*.W1.Bib80.QU=DSQ</ML>
+    <ML>FR.*.W2.Bib38.QU=DNF</ML>
+    <ML>FR.*.W2.Bib39.QU=DNS</ML>
+    <ML>FR.*.W2.Bib64.QU=DNF</ML>
+    <ML>FR.*.W2.Bib65.QU=DNF</ML>
+    <ML>FR.*.W2.Bib70.QU=DNF</ML>
+    <ML>FR.*.W2.Bib72.QU=DNS</ML>
+    <ML>FR.*.W2.Bib73.QU=DNS</ML>
+    <ML>FR.*.W2.Bib74.QU=DSQ</ML>
+    <ML>FR.*.W2.Bib75.QU=DSQ</ML>
+    <ML>FR.*.W2.Bib76.QU=DNS</ML>
+    <ML>FR.*.W2.Bib77.QU=DNS</ML>
+    <ML>FR.*.W2.Bib78.QU=DNS</ML>
+    <ML>FR.*.W2.Bib79.QU=DSQ</ML>
+    <ML>FR.*.W2.Bib80.QU=DSQ</ML>
+    <ML>FR.*.W3.Bib4.QU=DNS</ML>
+    <ML>FR.*.W3.Bib23.QU=DNF</ML>
+    <ML>FR.*.W3.Bib36.QU=DNF</ML>
+    <ML>FR.*.W3.Bib38.QU=DNF</ML>
+    <ML>FR.*.W3.Bib58.QU=DNF</ML>
+    <ML>FR.*.W3.Bib61.QU=DNF</ML>
+    <ML>FR.*.W3.Bib65.QU=DNF</ML>
+    <ML>FR.*.W3.Bib66.QU=DNF</ML>
+    <ML>FR.*.W3.Bib70.QU=DSQ</ML>
+    <ML>FR.*.W3.Bib71.QU=DNF</ML>
+    <ML>FR.*.W3.Bib72.QU=DNS</ML>
+    <ML>FR.*.W3.Bib73.QU=DNS</ML>
+    <ML>FR.*.W3.Bib74.QU=DSQ</ML>
+    <ML>FR.*.W3.Bib75.QU=DSQ</ML>
+    <ML>FR.*.W3.Bib76.QU=DNS</ML>
+    <ML>FR.*.W3.Bib77.QU=DNS</ML>
+    <ML>FR.*.W3.Bib78.QU=DNS</ML>
+    <ML>FR.*.W3.Bib79.QU=DSQ</ML>
+    <ML>FR.*.W3.Bib80.QU=DSQ</ML>
+    <ML>FR.*.W4.Bib35.QU=DNF</ML>
+    <ML>FR.*.W4.Bib36.QU=DNF</ML>
+    <ML>FR.*.W4.Bib41.QU=DNF</ML>
+    <ML>FR.*.W4.Bib44.QU=DNS</ML>
+    <ML>FR.*.W4.Bib53.QU=DNF</ML>
+    <ML>FR.*.W4.Bib57.QU=DNS</ML>
+    <ML>FR.*.W4.Bib60.QU=DNS</ML>
+    <ML>FR.*.W4.Bib61.QU=DNS</ML>
+    <ML>FR.*.W4.Bib65.QU=DNS</ML>
+    <ML>FR.*.W4.Bib67.QU=DNS</ML>
+    <ML>FR.*.W4.Bib68.QU=DNS</ML>
+    <ML>FR.*.W4.Bib69.QU=DNF</ML>
+    <ML>FR.*.W4.Bib71.QU=DNS</ML>
+    <ML>FR.*.W4.Bib72.QU=DNS</ML>
+    <ML>FR.*.W4.Bib73.QU=DNS</ML>
+    <ML>FR.*.W4.Bib74.QU=DSQ</ML>
+    <ML>FR.*.W4.Bib75.QU=DSQ</ML>
+    <ML>FR.*.W4.Bib76.QU=DNS</ML>
+    <ML>FR.*.W4.Bib77.QU=DNS</ML>
+    <ML>FR.*.W4.Bib78.QU=DNS</ML>
+    <ML>FR.*.W4.Bib79.QU=DSQ</ML>
+    <ML>FR.*.W4.Bib80.QU=DSQ</ML>
+    <ML>FR.*.W5.Bib19.QU=DNF</ML>
+    <ML>FR.*.W5.Bib57.QU=DNS</ML>
+    <ML>FR.*.W5.Bib63.QU=DNS</ML>
+    <ML>FR.*.W5.Bib64.QU=DNS</ML>
+    <ML>FR.*.W5.Bib67.QU=DNS</ML>
+    <ML>FR.*.W5.Bib69.QU=DNS</ML>
+    <ML>FR.*.W5.Bib70.QU=DNS</ML>
+    <ML>FR.*.W5.Bib71.QU=DNS</ML>
+    <ML>FR.*.W5.Bib72.QU=DNS</ML>
+    <ML>FR.*.W5.Bib73.QU=DNS</ML>
+    <ML>FR.*.W5.Bib74.QU=DNS</ML>
+    <ML>FR.*.W5.Bib75.QU=DNS</ML>
+    <ML>FR.*.W5.Bib76.QU=DNS</ML>
+    <ML>FR.*.W5.Bib77.QU=DNS</ML>
+    <ML>FR.*.W5.Bib78.QU=DNS</ML>
+    <ML>FR.*.W5.Bib79.QU=DNS</ML>
+    <ML>FR.*.W5.Bib80.QU=DNS</ML>
+    <ML>FR.*.W6.Bib1.QU=DNS</ML>
+    <ML>FR.*.W6.Bib2.QU=DNS</ML>
+    <ML>FR.*.W6.Bib15.QU=DSQ</ML>
+    <ML>FR.*.W6.Bib16.QU=DNF</ML>
+    <ML>FR.*.W6.Bib21.QU=DNF</ML>
+    <ML>FR.*.W6.Bib31.QU=DNS</ML>
+    <ML>FR.*.W6.Bib47.QU=DNF</ML>
+    <ML>FR.*.W6.Bib54.QU=DSQ</ML>
+    <ML>FR.*.W6.Bib57.QU=DNS</ML>
+    <ML>FR.*.W6.Bib60.QU=DNS</ML>
+    <ML>FR.*.W6.Bib63.QU=DNS</ML>
+    <ML>FR.*.W6.Bib64.QU=DNS</ML>
+    <ML>FR.*.W6.Bib65.QU=DNS</ML>
+    <ML>FR.*.W6.Bib67.QU=DNS</ML>
+    <ML>FR.*.W6.Bib68.QU=DNS</ML>
+    <ML>FR.*.W6.Bib69.QU=DNS</ML>
+    <ML>FR.*.W6.Bib70.QU=DNS</ML>
+    <ML>FR.*.W6.Bib71.QU=DNS</ML>
+    <ML>FR.*.W6.Bib72.QU=DNS</ML>
+    <ML>FR.*.W6.Bib73.QU=DNS</ML>
+    <ML>FR.*.W6.Bib74.QU=DNS</ML>
+    <ML>FR.*.W6.Bib75.QU=DNS</ML>
+    <ML>FR.*.W6.Bib76.QU=DNS</ML>
+    <ML>FR.*.W6.Bib77.QU=DNS</ML>
+    <ML>FR.*.W6.Bib78.QU=DNS</ML>
+    <ML>FR.*.W6.Bib79.QU=DNS</ML>
+    <ML>FR.*.W6.Bib80.QU=DNS</ML>
+  </MsgList>
+</FR>

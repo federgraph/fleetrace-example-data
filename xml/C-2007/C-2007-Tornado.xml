@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+<FR>
+  <Properties StartlistCount="49" ITCount="0" RaceCount="8" DivisionName="Tornado" InputMode="Strict">
+    <EP K="Name" V="C 2007 Tornado"/>
+    <EP K="ScoringSystem" V="Low Point System"/>
+    <EP K="Throwouts" V="1"/>
+    <EP K="DivisionName" V="Tornado"/>
+    <EP K="InputMode" V="Strict"/>
+    <EP K="RaceLayout" V="Finish"/>
+    <EP K="NameSchema" V="NX"/>
+    <EP K="FieldCaptions" V="FN1,LN1,Sail,NOC,FN2,LN2"/>
+    <EP K="FieldCount" V="6"/>
+    <EP K="NameFieldCount" V="0"/>
+    <EP K="NameFieldOrder" V=""/>
+    <EP K="UseFleets" V="False"/>
+    <EP K="TargetFleetSize" V="32"/>
+    <EP K="FirstFinalRace" V="20"/>
+    <EP K="UseCompactFormat" V="True"/>
+  </Properties>
+  <StartList>
+    <Pos oID="1" Bib="1" SNR="1000"/>
+    <Pos oID="2" Bib="2" SNR="1001"/>
+    <Pos oID="3" Bib="3" SNR="1002"/>
+    <Pos oID="4" Bib="4" SNR="1003"/>
+    <Pos oID="5" Bib="5" SNR="1004"/>
+    <Pos oID="6" Bib="6" SNR="1005"/>
+    <Pos oID="7" Bib="7" SNR="1006"/>
+    <Pos oID="8" Bib="8" SNR="1007"/>
+    <Pos oID="9" Bib="9" SNR="1008"/>
+    <Pos oID="10" Bib="10" SNR="1009"/>
+    <Pos oID="11" Bib="11" SNR="1010"/>
+    <Pos oID="12" Bib="12" SNR="1011"/>
+    <Pos oID="13" Bib="13" SNR="1012"/>
+    <Pos oID="14" Bib="14" SNR="1013"/>
+    <Pos oID="15" Bib="15" SNR="1014"/>
+    <Pos oID="16" Bib="16" SNR="1015"/>
+    <Pos oID="17" Bib="17" SNR="1016"/>
+    <Pos oID="18" Bib="18" SNR="1017"/>
+    <Pos oID="19" Bib="19" SNR="1018"/>
+    <Pos oID="20" Bib="20" SNR="1019"/>
+    <Pos oID="21" Bib="21" SNR="1020"/>
+    <Pos oID="22" Bib="22" SNR="1021"/>
+    <Pos oID="23" Bib="23" SNR="1022"/>
+    <Pos oID="24" Bib="24" SNR="1023"/>
+    <Pos oID="25" Bib="25" SNR="1024"/>
+    <Pos oID="26" Bib="26" SNR="1025"/>
+    <Pos oID="27" Bib="27" SNR="1026"/>
+    <Pos oID="28" Bib="28" SNR="1027"/>
+    <Pos oID="29" Bib="29" SNR="1028"/>
+    <Pos oID="30" Bib="30" SNR="1029"/>
+    <Pos oID="31" Bib="31" SNR="1030"/>
+    <Pos oID="32" Bib="32" SNR="1031"/>
+    <Pos oID="33" Bib="33" SNR="1032"/>
+    <Pos oID="34" Bib="34" SNR="1033"/>
+    <Pos oID="35" Bib="35" SNR="1034"/>
+    <Pos oID="36" Bib="36" SNR="1035"/>
+    <Pos oID="37" Bib="37" SNR="1036"/>
+    <Pos oID="38" Bib="38" SNR="1037"/>
+    <Pos oID="39" Bib="39" SNR="1038"/>
+    <Pos oID="40" Bib="40" SNR="1039"/>
+    <Pos oID="41" Bib="41" SNR="1040"/>
+    <Pos oID="42" Bib="42" SNR="1041"/>
+    <Pos oID="43" Bib="43" SNR="1042"/>
+    <Pos oID="44" Bib="44" SNR="1043"/>
+    <Pos oID="45" Bib="45" SNR="1044"/>
+    <Pos oID="46" Bib="46" SNR="1045"/>
+    <Pos oID="47" Bib="47" SNR="1046"/>
+    <Pos oID="48" Bib="48" SNR="1047"/>
+    <Pos oID="49" Bib="49" SNR="1048"/>
+  </StartList>
+  <FinishList>
+    <FL>SNR;Bib;R1;R2;R3;R4;R5;R6;R7;R8</FL>
+    <FL>1000;1;9;8;1;11;4;3;6;3</FL>
+    <FL>1001;2;5;10;3;3;8;18;5;6</FL>
+    <FL>1002;3;15;13;2;5;1;15;3;2</FL>
+    <FL>1003;4;19;19;6;4;2;12;2;4</FL>
+    <FL>1004;5;38;16;4;2;7;9;17;13</FL>
+    <FL>1005;6;20;11;5;1;5;13;25;16</FL>
+    <FL>1006;7;17;9;19;7;9;14;1;23</FL>
+    <FL>1007;8;2;7;20;14;15;2;23;18</FL>
+    <FL>1008;9;3;20;17;22;10;1;7;24</FL>
+    <FL>1009;10;23;2;9;8;17;25;15;9</FL>
+    <FL>1010;11;16;4;13;19;20;4;10;26</FL>
+    <FL>1011;12;7;15;15;31;13;17;21;1</FL>
+    <FL>1012;13;21;3;18;13;14;11;11;21</FL>
+    <FL>1013;14;4;5;11;28;0;0;18;7</FL>
+    <FL>1014;15;12;17;35;12;18;5;20;12</FL>
+    <FL>1015;16;11;29;7;24;3;8;29;15</FL>
+    <FL>1016;17;24;12;14;10;6;24;9;0</FL>
+    <FL>1017;18;13;6;23;29;12;26;12;11</FL>
+    <FL>1018;19;1;22;16;26;24;6;28;22</FL>
+    <FL>1019;20;18;23;28;16;26;16;4;14</FL>
+    <FL>1020;21;29;14;8;20;11;10;27;34</FL>
+    <FL>1021;22;8;31;10;9;19;21;22;37</FL>
+    <FL>1022;23;34;1;24;38;16;19;19;31</FL>
+    <FL>1023;24;14;26;34;15;21;20;16;0</FL>
+    <FL>1024;25;6;32;12;21;36;27;32;19</FL>
+    <FL>1025;26;10;24;21;33;0;0;8;5</FL>
+    <FL>1026;27;26;33;33;6;25;23;30;30</FL>
+    <FL>1027;28;33;27;37;36;29;7;0;10</FL>
+    <FL>1028;29;27;25;25;34;40;33;13;27</FL>
+    <FL>1029;30;28;28;30;39;30;31;14;25</FL>
+    <FL>1030;31;31;30;47;32;23;29;24;17</FL>
+    <FL>1031;32;22;21;27;18;0;0;0;8</FL>
+    <FL>1032;33;37;38;26;35;22;22;33;29</FL>
+    <FL>1033;34;25;35;22;41;35;32;38;28</FL>
+    <FL>1034;35;32;18;42;23;0;37;35;32</FL>
+    <FL>1035;36;36;0;40;27;27;38;36;20</FL>
+    <FL>1036;37;45;36;43;17;34;36;34;33</FL>
+    <FL>1037;38;42;46;32;25;28;34;31;0</FL>
+    <FL>1038;39;35;34;29;37;32;39;37;0</FL>
+    <FL>1039;40;44;37;31;45;0;30;26;39</FL>
+    <FL>1040;41;40;43;36;30;31;35;41;40</FL>
+    <FL>1041;42;39;41;38;40;33;41;40;38</FL>
+    <FL>1042;43;0;39;41;48;38;28;39;0</FL>
+    <FL>1043;44;41;45;44;47;39;40;43;35</FL>
+    <FL>1044;45;0;48;39;42;41;44;42;36</FL>
+    <FL>1045;46;30;42;48;43;37;45;0;0</FL>
+    <FL>1046;47;43;40;46;44;42;43;44;42</FL>
+    <FL>1047;48;46;47;45;46;44;0;45;41</FL>
+    <FL>1048;49;47;44;49;0;43;42;46;43</FL>
+  </FinishList>
+  <MsgList>
+    <ML>FR.*.W1.Bib43.QU=DNF</ML>
+    <ML>FR.*.W1.Bib45.QU=DSQ</ML>
+    <ML>FR.*.W2.Bib36.QU=RAF</ML>
+    <ML>FR.*.W4.Bib49.QU=DNF</ML>
+    <ML>FR.*.W5.Bib14.QU=RDG/19.6</ML>
+    <ML>FR.*.W5.Bib26.QU=DNF</ML>
+    <ML>FR.*.W5.Bib32.QU=DNF</ML>
+    <ML>FR.*.W5.Bib35.QU=DSQ</ML>
+    <ML>FR.*.W5.Bib40.QU=OCS</ML>
+    <ML>FR.*.W6.Bib14.QU=DNF</ML>
+    <ML>FR.*.W6.Bib26.QU=DNF</ML>
+    <ML>FR.*.W6.Bib32.QU=DNF</ML>
+    <ML>FR.*.W6.Bib48.QU=DNF</ML>
+    <ML>FR.*.W7.Bib28.QU=DNF</ML>
+    <ML>FR.*.W7.Bib32.QU=DSQ</ML>
+    <ML>FR.*.W7.Bib46.QU=DNF</ML>
+    <ML>FR.*.W8.Bib17.QU=DNF</ML>
+    <ML>FR.*.W8.Bib24.QU=DNF</ML>
+    <ML>FR.*.W8.Bib38.QU=DNF</ML>
+    <ML>FR.*.W8.Bib39.QU=DNF</ML>
+    <ML>FR.*.W8.Bib43.QU=RDG/40.4</ML>
+    <ML>FR.*.W8.Bib46.QU=DNF</ML>
+  </MsgList>
+</FR>

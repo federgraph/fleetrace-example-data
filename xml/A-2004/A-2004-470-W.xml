@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<FR>
+  <Properties StartlistCount="20" ITCount="7" RaceCount="11" DivisionName="470women" InputMode="Strict">
+    <EP K="Name" V="A-2004 470 W"/>
+    <EP K="ScoringSystem" V="Low Point System"/>
+    <EP K="Throwouts" V="1"/>
+    <EP K="DivisionName" V="470women"/>
+    <EP K="InputMode" V="Strict"/>
+    <EP K="RaceLayout" V="Finish"/>
+    <EP K="NameSchema" V="NX"/>
+    <EP K="FieldCount" V="6"/>
+    <EP K="FieldCaptions" V="FN1,LN1,-,NOC,-,-"/>
+    <EP K="NameFieldCount" V="0"/>
+    <EP K="NameFieldOrder" V=""/>
+    <EP K="IsTimed" V="False"/>
+    <EP K="UseCompactFormat" V="True"/>
+  </Properties>
+  <StartList>
+    <Pos oID="1" Bib="1" SNR="1209"/>
+    <Pos oID="2" Bib="2" SNR="1211"/>
+    <Pos oID="3" Bib="3" SNR="1213"/>
+    <Pos oID="4" Bib="4" SNR="1215"/>
+    <Pos oID="5" Bib="5" SNR="1217"/>
+    <Pos oID="6" Bib="6" SNR="1219"/>
+    <Pos oID="7" Bib="7" SNR="1221"/>
+    <Pos oID="8" Bib="8" SNR="1223"/>
+    <Pos oID="9" Bib="9" SNR="1225"/>
+    <Pos oID="10" Bib="10" SNR="1227"/>
+    <Pos oID="11" Bib="11" SNR="1229"/>
+    <Pos oID="12" Bib="12" SNR="1231"/>
+    <Pos oID="13" Bib="13" SNR="1233"/>
+    <Pos oID="14" Bib="14" SNR="1235"/>
+    <Pos oID="15" Bib="15" SNR="1237"/>
+    <Pos oID="16" Bib="16" SNR="1239"/>
+    <Pos oID="17" Bib="17" SNR="1241"/>
+    <Pos oID="18" Bib="18" SNR="1243"/>
+    <Pos oID="19" Bib="19" SNR="1245"/>
+    <Pos oID="20" Bib="20" SNR="1247"/>
+  </StartList>
+  <FinishList>
+    <FL>SNR;Bib;R1;R2;R3;R4;R5;R6;R7;R8;R9;R10;R11</FL>
+    <FL>1209;1;16;8;11;6;15;16;3;15;9;12;11</FL>
+    <FL>1211;2;15;13;6;14;11;11;10;8;13;10;19</FL>
+    <FL>1213;3;0;19;20;16;16;3;6;16;15;5;6</FL>
+    <FL>1215;4;5;14;18;11;12;7;2;20;6;20;12</FL>
+    <FL>1217;5;12;1;4;3;13;8;5;17;12;6;16</FL>
+    <FL>1219;6;9;3;5;7;7;20;19;19;10;15;9</FL>
+    <FL>1221;7;14;16;8;1;18;4;11;10;20;16;14</FL>
+    <FL>1223;8;6;15;15;4;5;6;17;11;2;17;7</FL>
+    <FL>1225;9;1;2;2;13;1;1;14;1;1;2;0</FL>
+    <FL>1227;10;0;10;13;9;20;9;16;9;16;11;17</FL>
+    <FL>1229;11;0;12;16;19;6;13;12;5;4;14;18</FL>
+    <FL>1231;12;17;20;19;20;10;19;20;4;17;9;10</FL>
+    <FL>1233;13;3;18;17;10;8;12;4;13;3;19;1</FL>
+    <FL>1235;14;11;4;1;17;4;10;7;7;19;13;15</FL>
+    <FL>1237;15;7;9;10;5;17;18;15;14;14;18;13</FL>
+    <FL>1239;16;8;7;12;8;14;17;13;12;11;4;8</FL>
+    <FL>1241;17;4;6;14;18;2;15;1;2;18;3;2</FL>
+    <FL>1243;18;2;5;9;15;19;5;8;3;5;7;5</FL>
+    <FL>1245;19;10;11;7;2;3;14;9;6;7;8;3</FL>
+    <FL>1247;20;13;17;3;12;9;2;18;18;8;1;4</FL>
+  </FinishList>
+  <MsgList>
+    <ML>FR.*.W1.Bib3.QU=OCS</ML>
+    <ML>FR.*.W1.Bib10.QU=OCS</ML>
+    <ML>FR.*.W1.Bib11.QU=OCS</ML>
+    <ML>FR.*.W1.Bib13.QU=DSQ</ML>
+    <ML>FR.*.W2.Bib14.QU=DSQ,DNF</ML>
+    <ML>FR.*.W3.Bib11.QU=RAF</ML>
+    <ML>FR.*.W4.Bib14.QU=RDG/15.0</ML>
+    <ML>FR.*.W8.Bib8.QU=DSQ</ML>
+    <ML>FR.*.W10.Bib5.QU=DSQ</ML>
+    <ML>FR.*.W11.Bib9.QU=DNC</ML>
+  </MsgList>
+</FR>

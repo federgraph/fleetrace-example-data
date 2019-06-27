@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<FR>
+  <Properties StartlistCount="34" ITCount="7" RaceCount="11" DivisionName="MistralMen" InputMode="Strict">
+    <EP K="Name" V="A 2004 Mistral M"/>
+    <EP K="ScoringSystem" V="Low Point System"/>
+    <EP K="Throwouts" V="1"/>
+    <EP K="DivisionName" V="MistralMen"/>
+    <EP K="InputMode" V="Strict"/>
+    <EP K="RaceLayout" V="Finish"/>
+    <EP K="NameSchema" V="NX"/>
+    <EP K="FieldCaptions" V="FN,LN,-,NOC,-,-"/>
+    <EP K="FieldCount" V="6"/>
+    <EP K="NameFieldCount" V="0"/>
+    <EP K="NameFieldOrder" V=""/>
+    <EP K="IsTimed" V="False"/>
+    <EP K="UseCompactFormat" V="True"/>
+  </Properties>
+  <StartList>
+    <Pos oID="1" Bib="1" SNR="1351"/>
+    <Pos oID="2" Bib="2" SNR="1352"/>
+    <Pos oID="3" Bib="3" SNR="1353"/>
+    <Pos oID="4" Bib="4" SNR="1354"/>
+    <Pos oID="5" Bib="5" SNR="1355"/>
+    <Pos oID="6" Bib="6" SNR="1356"/>
+    <Pos oID="7" Bib="7" SNR="1357"/>
+    <Pos oID="8" Bib="8" SNR="1358"/>
+    <Pos oID="9" Bib="9" SNR="1359"/>
+    <Pos oID="10" Bib="10" SNR="1360"/>
+    <Pos oID="11" Bib="11" SNR="1361"/>
+    <Pos oID="12" Bib="12" SNR="1362"/>
+    <Pos oID="13" Bib="13" SNR="1363"/>
+    <Pos oID="14" Bib="14" SNR="1364"/>
+    <Pos oID="15" Bib="15" SNR="1365"/>
+    <Pos oID="16" Bib="16" SNR="1366"/>
+    <Pos oID="17" Bib="17" SNR="1367"/>
+    <Pos oID="18" Bib="18" SNR="1368"/>
+    <Pos oID="19" Bib="19" SNR="1369"/>
+    <Pos oID="20" Bib="20" SNR="1370"/>
+    <Pos oID="21" Bib="21" SNR="1371"/>
+    <Pos oID="22" Bib="22" SNR="1372"/>
+    <Pos oID="23" Bib="23" SNR="1373"/>
+    <Pos oID="24" Bib="24" SNR="1374"/>
+    <Pos oID="25" Bib="25" SNR="1375"/>
+    <Pos oID="26" Bib="26" SNR="1376"/>
+    <Pos oID="27" Bib="27" SNR="1377"/>
+    <Pos oID="28" Bib="28" SNR="1378"/>
+    <Pos oID="29" Bib="29" SNR="1379"/>
+    <Pos oID="30" Bib="30" SNR="1380"/>
+    <Pos oID="31" Bib="31" SNR="1381"/>
+    <Pos oID="32" Bib="32" SNR="1382"/>
+    <Pos oID="33" Bib="33" SNR="1383"/>
+    <Pos oID="34" Bib="34" SNR="1384"/>
+  </StartList>
+  <FinishList>
+    <FL>SNR;Bib;R1;R2;R3;R4;R5;R6;R7;R8;R9;R10;R11</FL>
+    <FL>1351;1;29;6;24;7;23;23;16;13;11;10;9</FL>
+    <FL>1352;2;9;13;10;4;13;2;9;6;6;31;14</FL>
+    <FL>1353;3;4;7;2;1;5;17;7;2;9;1;17</FL>
+    <FL>1354;4;33;0;33;31;30;32;31;29;33;25;30</FL>
+    <FL>1355;5;19;10;21;3;8;1;12;4;12;14;3</FL>
+    <FL>1356;6;3;22;6;20;7;18;14;11;24;16;21</FL>
+    <FL>1357;7;28;26;32;33;31;26;34;28;29;32;22</FL>
+    <FL>1358;8;5;4;9;8;12;11;6;14;4;2;18</FL>
+    <FL>1359;9;27;27;25;29;17;31;30;0;20;21;0</FL>
+    <FL>1360;10;2;12;15;10;2;9;1;10;1;6;1</FL>
+    <FL>1361;11;1;5;4;14;6;13;2;3;5;4;10</FL>
+    <FL>1362;12;21;23;13;24;18;3;18;7;21;9;7</FL>
+    <FL>1363;13;12;17;17;26;24;24;23;8;18;27;25</FL>
+    <FL>1364;14;18;20;19;12;25;10;22;26;14;17;12</FL>
+    <FL>1365;15;8;3;5;5;1;7;5;1;8;5;2</FL>
+    <FL>1366;16;13;9;29;22;19;21;21;0;32;0;0</FL>
+    <FL>1367;17;16;24;18;23;0;4;13;12;15;19;28</FL>
+    <FL>1368;18;31;25;28;28;27;0;17;22;23;22;15</FL>
+    <FL>1369;19;11;16;12;19;11;14;20;5;16;20;26</FL>
+    <FL>1370;20;26;19;16;17;28;15;11;17;13;26;19</FL>
+    <FL>1371;21;17;8;3;18;14;8;15;18;3;3;11</FL>
+    <FL>1372;22;6;1;1;15;10;6;10;16;2;7;20</FL>
+    <FL>1373;23;10;2;22;9;3;5;4;0;7;8;8</FL>
+    <FL>1374;24;32;30;30;27;26;12;24;23;28;30;24</FL>
+    <FL>1375;25;34;28;34;34;32;27;33;30;34;33;27</FL>
+    <FL>1376;26;15;11;11;2;9;0;19;15;10;18;4</FL>
+    <FL>1377;27;24;14;14;25;0;22;25;20;22;23;0</FL>
+    <FL>1378;28;14;29;20;30;15;30;27;21;17;13;5</FL>
+    <FL>1379;29;23;32;27;21;21;19;26;19;25;15;16</FL>
+    <FL>1380;30;7;18;8;6;4;16;3;0;19;12;13</FL>
+    <FL>1381;31;20;15;7;13;20;20;8;9;26;11;6</FL>
+    <FL>1382;32;30;33;31;32;29;28;32;25;31;29;29</FL>
+    <FL>1383;33;22;21;23;16;22;29;28;24;30;28;31</FL>
+    <FL>1384;34;25;31;26;11;16;25;29;27;27;24;23</FL>
+  </FinishList>
+  <MsgList>
+    <ML>FR.*.W2.Bib4.QU=DNF</ML>
+    <ML>FR.*.W2.Bib8.QU=DSQ</ML>
+    <ML>FR.*.W4.Bib28.QU=DSQ</ML>
+    <ML>FR.*.W5.Bib17.QU=OCS</ML>
+    <ML>FR.*.W5.Bib27.QU=OCS</ML>
+    <ML>FR.*.W6.Bib18.QU=DNF</ML>
+    <ML>FR.*.W6.Bib26.QU=OCS</ML>
+    <ML>FR.*.W7.Bib31.QU=DSQ</ML>
+    <ML>FR.*.W8.Bib9.QU=OCS</ML>
+    <ML>FR.*.W8.Bib16.QU=OCS</ML>
+    <ML>FR.*.W8.Bib23.QU=OCS</ML>
+    <ML>FR.*.W8.Bib30.QU=OCS</ML>
+    <ML>FR.*.W10.Bib16.QU=DNF</ML>
+    <ML>FR.*.W11.Bib9.QU=OCS</ML>
+    <ML>FR.*.W11.Bib16.QU=DNS</ML>
+    <ML>FR.*.W11.Bib27.QU=OCS</ML>
+  </MsgList>
+</FR>
