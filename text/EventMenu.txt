@@ -1,7 +1,7 @@
 ---
 layout: null
 ---
-Root={{ site.url }}/data/txt/
+Root={{ site.url }}/txt/
 Caption=IDM 420
 DataFolder=IDM-420/
 ImgFolder=

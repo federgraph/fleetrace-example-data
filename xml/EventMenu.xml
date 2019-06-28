@@ -2,7 +2,7 @@
 layout: null
 ---
 <?xml version="1.0" encoding="utf-8" ?> 
-<EventMenu Root="{{ site.url }}/data/xml/">
+<EventMenu Root="{{ site.url }}/xml/">
   <ComboEntry Caption="IDM 420">
     <DataFolder Url="IDM-420/">
       <ImgFolder Url="">
